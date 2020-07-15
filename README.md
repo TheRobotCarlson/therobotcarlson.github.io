@@ -1,6 +1,3 @@
-# therobotcarlson.com
+Add static files here. Files in this directory will be copied directly to `dist` folder during build. For example, /static/robots.txt will be located at https://yoursite.com/robots.txt.
 
-- built using Gridsome and VueJS
-- Uses Vuetify framework
-
-See code on `build` branch
+This file should be deleted.
