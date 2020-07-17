@@ -1,6 +1,7 @@
 ---
-title: United States Court of Appeals for the Sixth Circuit IT 
+title: Security Engineer II at United States Court of Appeals for the Sixth Circuit IT 
 position: Security Engineer II
+company: United States Court of Appeals for the Sixth Circuit IT 
 excerpt: Developed security policies and SSP for the IT Security Scorecard for the Sixth Circuit and lower courts. Wrote document generation software for acceleration of security document completion.
 
 date: 2017-06-02

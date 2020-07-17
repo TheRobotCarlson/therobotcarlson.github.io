@@ -1,6 +1,7 @@
 ---
-title: Belcan Engineering
+title: Programming Intern at Belcan Engineering
 position: Programming Intern
+company: Belcan Engineering
 excerpt: Designed automation software for error reporting. Built software to detect anomalous implementation and design requirements to ensure designs met government and industry standards.
 
 date: 2017-01-10

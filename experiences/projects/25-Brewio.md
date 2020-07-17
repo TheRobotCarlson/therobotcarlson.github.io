@@ -8,7 +8,7 @@ excerpt: Aggregation and analysis of data that predicts the demand for batches o
 img: brewio.png
 thumbnail: brewio.png
 
-tags: ["startup-weekend", "entrepreneurship"]
+tags: ["startup-weekend", "entrepreneurship", "hackathon"]
 ---
 
 With the increasing demand for small-batch, artisan bourbon and beer, distilleries and breweries often look for new ways to connect with their customers.

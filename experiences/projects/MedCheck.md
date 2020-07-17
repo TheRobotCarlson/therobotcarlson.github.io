@@ -12,7 +12,7 @@ github: https://github.com/TheRobotCarlson/MedCheck
 devpost: https://devpost.com/software/medcheck-409oqi
 
 
-tags: ["c++", "telegram-api", "raspberry-pi", "amazon-echo", "alexa-app", "iot", "hackathon", "embedded"]
+tags: ["c++", "javascript", "telegram-api", "raspberry-pi", "amazon-echo", "alexa-app", "iot", "hackathon", "embedded"]
 ---
 
 ## What it does

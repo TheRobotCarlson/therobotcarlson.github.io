@@ -11,7 +11,7 @@ github: https://github.com/zsilver1/RESearch
 devpost: https://devpost.com/software/research-1osetc
 
 
-tags: ["python", "bioinformatics", "neo4j", "hackathon"]
+tags: ["python", "neo4j", "bioinformatics", "hackathon"]
 
 ---
 ## Inspiration

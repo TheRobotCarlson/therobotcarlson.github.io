@@ -10,7 +10,7 @@ img: bars.jpg
 thumbnail: bars.jpg
 
 
-tags: ["python", "firebase", "telegram", "chatbot", "startup-weekend", "entrepreneurship"]
+tags: ["python", "firebase", "telegram", "chatbot", "startup-weekend", "entrepreneurship", "hackathon"]
 ---
 
 Bars? is a set of chat integrations (iOS, Telegram) that provide an easy and common interface for persuading friends to go out to bars. Often times, you don't want to go out to bars alone, but it can be a bit of a hassle to message everyone or clog the group chat with conversation about who's going and where they're going.

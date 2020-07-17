@@ -11,7 +11,7 @@ img: eyeroom.jpg
 devpost: https://devpost.com/software/eyeroom
 github: https://github.com/therobotcarlson/eyeRoom
 
-tags: ["firebase", "opencv", "amazon-web-services", "raspberry-pi", "node-js", "computer-vision", "telegram-api", "javascript", "hackathon"]
+tags: ["python", "node-js", "javascript", "firebase", "opencv", "amazon-web-services", "raspberry-pi", "computer-vision", "telegram-api", "hackathon"]
 ---
 
 ## Inspiration

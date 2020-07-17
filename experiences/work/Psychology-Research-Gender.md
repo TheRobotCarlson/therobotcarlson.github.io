@@ -1,6 +1,7 @@
 ---
-title: Western Kentucky University Psychology Department
+title: Student Programmer at Western Kentucky University Psychology Department
 position: Student Programmer
+company: Western Kentucky University Psychology Department
 excerpt: Built interactive visualizations for word usage differences by gender
 
 date: 2014-03-02

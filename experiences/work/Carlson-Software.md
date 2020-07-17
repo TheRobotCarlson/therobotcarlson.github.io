@@ -1,6 +1,7 @@
 ---
-title: Carlson Software
+title: Software Engineering Intern at Carlson Software
 position: Software Engineering Intern
+company: Carlson Software
 excerpt: Developed faster algorithms for 3D point clouds and 3D model imports
 
 date: 2015-05-10

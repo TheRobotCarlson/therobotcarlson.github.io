@@ -8,7 +8,7 @@ excerpt: A google cloud based cryptocurrency trading framework.
 img: factorem.jpg
 thumbnail: factorem.jpg
 
-tags: ["python", "c++", "aws", "mongodb", "keras", "tensorflow"]
+tags: ["python", "c++", "amazon-web-services", "mongodb", "keras", "tensorflow"]
 ---
 
 - Built and optimized a cryptocurrency trading bot framework and bots to run on it, my main project for the last 2 - 3 years.  

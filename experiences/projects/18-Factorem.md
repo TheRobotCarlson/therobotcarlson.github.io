@@ -10,7 +10,7 @@ thumbnail: factorem.jpg
 
 devpost: https://devpost.com/software/pecunia-factorem
 
-tags: ["python", "google-cloud", "firestore", "google-pubsub"]
+tags: ["python", "google-cloud", "firestore", "google-pubsub", "hackathon"]
 ---
 ## Inspiration
 I gave a talk in spring 2018 to a group of business majors about how technology could be used in the financial industry. For that talk, I put together a small demo of automated trading. Much to my surprise, the bot worked well, _really_ well.

@@ -1,6 +1,7 @@
 ---
-title: University of Kentucky
+title: Student at University of Kentucky
 position: Student
+company: University of Kentucky
 excerpt: Graduated with degrees in Computer Science, Computer Engineering, and a minor in Math. Led UK's ACM chapter and organized workshops and hackathons.
 
 date: 2015-08-20

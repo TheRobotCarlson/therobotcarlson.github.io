@@ -1,6 +1,7 @@
 ---
-title: Western Kentucky University Physics Department
+title: Student Programmer at Western Kentucky University Physics Department
 position: Student Programmer
+company: Western Kentucky University Physics Department
 excerpt: Created Monte Carlo simulations for research on Förster Resonance Energy Transfer. Created a visualization tool for understanding the equations surrounding FRET.
 
 date: 2013-11-02

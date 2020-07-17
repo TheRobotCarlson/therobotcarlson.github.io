@@ -8,5 +8,5 @@ excerpt: Neural Style Transfered Art, automatically applied to merchandise for s
 img: autoart.png
 thumbnail: autoart.png
 
-tags: ["neural-style-transfer", "machine-learning", "python", "neural-networks"]
+tags: ["python", "keras", "machine-learning", "neural-networks", "neural-style-transfer"]
 ---

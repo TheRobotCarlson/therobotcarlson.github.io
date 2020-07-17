@@ -1,6 +1,7 @@
 ---
-title: Institute of Pharmaceutical Outcomes and Policy
+title: Data Scientist at Institute of Pharmaceutical Outcomes and Policy
 position: Data Scientist
+company: Institute of Pharmaceutical Outcomes and Policy
 excerpt: Wrote machine learning models for detecting anomalies in healthcare charge records
 
 date: 2019-02-02

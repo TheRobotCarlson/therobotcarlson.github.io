@@ -1,6 +1,7 @@
 ---
-title: Carlson Software (again)
+title: Software Engineering Intern at Carlson Software (again)
 position: Software Engineering Intern
+company: Carlson Software (again)
 excerpt: Developed CAD-like polyline capabilities, integrated old codebases
 
 date: 2016-05-10

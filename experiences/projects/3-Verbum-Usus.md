@@ -11,5 +11,5 @@ thumbnail: verbum-usus2.png
 
 github: https://github.com/TheRobotCarlson/Verbum-Usus
 
-tags: ["mathematica"]
+tags: ["mathematica", "data-visualization"]
 ---

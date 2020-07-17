@@ -1,6 +1,7 @@
 ---
-title: University of Kentucky Psychology Department
+title: Research Assistant at University of Kentucky Psychology Department
 position: Research Assistant
+company: University of Kentucky Psychology Department
 excerpt: Provided insight for guiding human interaction in creativity studies. Developed a chatbot for aiding research studies using chat data gathered from Discord servers. Created virtual chat agents inside Second Life game for studies.
 
 date: 2016-09-02

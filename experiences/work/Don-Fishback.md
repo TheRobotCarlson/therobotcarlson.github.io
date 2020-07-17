@@ -1,6 +1,7 @@
 ---
-title: Fishback Management and Research
+title: Data Engineer at Fishback Management and Research
 position: Data Engineer
+company: Fishback Management and Research
 excerpt: Created a backtesting framework to improve internal stock option ranking metrics. Wrote AI to improve stock options trading strategies. 
 
 date: 2019-02-02
