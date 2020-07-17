@@ -40,9 +40,11 @@
             <template v-slot:opposite >
               <span>{{getWorkLength(experience.node.date, experience.node.endDate)}}</span>
             </template>
-            <v-card class="elevation-2">
+            
+            <experience-item :experience="experience"/>
+            <!-- <v-card class="elevation-2">
               <v-card-title class="headline"><g-link style="color: inherit;" class="g-link" :to="experience.node.path">{{experience.node.position}}</g-link></v-card-title>
-              <v-card-subtitle><h3>{{experience.node.title}}</h3></v-card-subtitle>
+              <v-card-subtitle><h3>{{experience.node.company}}</h3></v-card-subtitle>
               
               <v-card-text v-html="experience.node.excerpt"></v-card-text>
               <v-card-text>
@@ -64,7 +66,7 @@
                   Learn More
                 </v-btn>
               </v-card-actions>
-            </v-card>
+            </v-card> -->
           </v-timeline-item>
         </v-timeline>
       </v-col>
@@ -99,6 +101,10 @@ query Experience {
         img
         github
         devpost
+        company
+        fileInfo{
+          directory
+        }
         tags {
           title
           path
@@ -111,8 +117,12 @@ query Experience {
 
 <script>
 import moment from 'moment';
+import ExperienceItem from '../components/ExperienceItem';
 
 export default {
+  components: {
+    ExperienceItem
+  },
   data(){
     return {
       dateString: null,

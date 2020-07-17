@@ -5,7 +5,9 @@
       <v-container fluid>
         <v-row justify="space-between">
           
-          <h1 id="title" class="text-4xl font-bold leading-tight">{{ $page.experience.title }}</h1>
+          
+          <h1 v-if="$page.experience.fileInfo.directory.includes('work')" id="title" class="text-4xl font-bold leading-tight">{{ $page.experience.position }}</h1>
+          <h1 v-if="$page.experience.fileInfo.directory.includes('projects')" id="title" class="text-4xl font-bold leading-tight">{{ $page.experience.title }}</h1>
       
           <!-- <v-btn
             text
@@ -18,7 +20,7 @@
         </v-row>
       </v-container>
 
-      <h2 v-if="$page.experience.position" class="text-4xl font-bold leading-tight">{{ $page.experience.position }}</h2>
+      <h2 v-if="$page.experience.fileInfo.directory.includes('work')" class="text-4xl font-bold leading-tight">{{ $page.experience.company }}</h2>
       <h2 v-if="$page.experience.subtitle" class="text-4xl font-bold leading-tight">{{ $page.experience.subtitle }}</h2>
       <div class="text-xl text-gray-600 mb-4">{{ dateString }}</div>
       <!-- <div class="text-xl text-gray-600 mb-4">{{ dateString }}</div> -->
@@ -72,6 +74,10 @@ query Experience ($path: String!) {
     date
     endDate
     content
+    company
+    fileInfo {
+      directory
+    }
     tags {
       title
       path

@@ -7,7 +7,7 @@
         >
             <v-col class="text-left">
                 <h1>Projects</h1>
-                <h2 class="subheading">Here's a small list of some of the things I've done.</h2>
+                <h2 class="subheading">Here's a small list of some of the things I've made.</h2>
             </v-col>
         </v-row>
         <v-spacer></v-spacer>
@@ -24,68 +24,7 @@
                 align-self="stretch"
                 class="d-flex"
             >
-            
-                <v-hover
-                    v-slot:default="{ hover }"
-                    close-delay="100"
-                >
-          
-                <v-card
-                    :class="$vuetify.theme.dark? hover ? 'light-elevation-16' : '' : hover ? 'elevation-24': 'elevation-2'"
-                    class="transition-swing d-flex flex-column"
-                >
-                    <v-card-title><g-link style="color: inherit;" class="g-link" :to="experience.node.path">{{experience.node.title}}</g-link></v-card-title>
-                    <v-card-text v-html="experience.node.excerpt"></v-card-text>
-                    <v-spacer></v-spacer>
-
-                    <v-card-text>
-                        <v-chip-group :show-arrows="false">
-                            <v-chip
-                                v-for="tag in experience.node.tags"
-                                :key="tag.id"
-                                :to="tag.path"
-                            >
-                                {{tag.title}}
-                            </v-chip>
-                        </v-chip-group>
-                    </v-card-text>
-                    <v-card-actions>
-                        <v-btn
-                            text
-                            :to="experience.node.path"
-                        >
-                            Learn More
-                        </v-btn>
-
-                        <v-spacer></v-spacer>
-
-                        <v-btn 
-                            v-if="experience.node.github" 
-                            :href="experience.node.github"
-                            target="_blank"
-                            icon 
-                        >
-                            <v-icon>$vuetify.icons.github</v-icon>
-                        </v-btn>
-                        <v-btn 
-                            v-if="experience.node.website"
-                            :href="experience.node.website"
-                            target="_blank"
-                            icon
-                        >
-                            <v-icon>$vuetify.icons.website</v-icon>
-                        </v-btn>
-                        <v-btn 
-                            v-if="experience.node.devpost"
-                            :href="experience.node.devpost"
-                            target="_blank"
-                            icon
-                        >
-                            <v-icon>$vuetify.icons.devpost</v-icon>
-                        </v-btn>
-                    </v-card-actions>
-                </v-card>
-                </v-hover>
+                <experience-item :experience="experience"/>
             </v-col>
         </v-row>
         <v-row>
@@ -115,6 +54,9 @@ query Experience {
         top
         github
         devpost
+        fileInfo {
+            directory
+        }
         tags {
             title
             path
@@ -126,8 +68,12 @@ query Experience {
 </static-query>
 
 <script>
-export default {
+import ExperienceItem from '../components/ExperienceItem';
 
+export default {
+    components: {
+        ExperienceItem
+    }
 }
 </script>
 
