@@ -11,6 +11,6 @@ img: odds.png
 
 hours: 40
 
-tags: ["python", "machine-learning", "artificial-intelligence", "php", "mysql", "javascript", "laravel", "vue", "percona-db", "full-stack", "hanweck-data"]
+tags: ["python", "machine-learning", "artificial-intelligence", "php", "mysql", "javascript", "laravel", "vuejs", "percona-db", "full-stack", "hanweck-data"]
 ---
 Created a backtesting framework to improve internal stock option ranking metric. Wrote AI to improve stock options trading strategies. 

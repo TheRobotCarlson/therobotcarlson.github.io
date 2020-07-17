@@ -8,6 +8,6 @@ excerpt: Laser Projector, Final Project for EE383. Modified to include wifi, sco
 vid: laserprojector.mp4
 thumbnail: laserprojector.jpg
 
-tags: ["embedded", "arm", "c-language"]
+tags: ["embedded", "arm", "c"]
 ---
 

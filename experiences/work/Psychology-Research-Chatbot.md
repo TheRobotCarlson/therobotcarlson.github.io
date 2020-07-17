@@ -10,7 +10,7 @@ endDate: 2016-12-10
 img: uky.jpg
 
 hours: 20
-tags: ["mathematica", "python", "chatbots", "big-data", "data-science", "research"]
+tags: ["python", "mathematica", "chatbots", "big-data", "data-science", "research"]
 ---
 
 Provided insight for guiding human interaction in creativity studies. Developed a chatbot for aiding research studies using chat data gathered from Discord servers. Created virtual chat agents inside Second Life game for studies.
