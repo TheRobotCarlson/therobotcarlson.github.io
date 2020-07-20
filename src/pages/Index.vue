@@ -18,7 +18,8 @@
             <v-carousel-item
               v-for="(slide, i) in images"
               :key="i"
-            > 
+            >
+              <!-- <video :src="require(`!!assets-loader?width=600&height=550!@images/${slide}`)"></video>  -->
               <g-image :src="require(`!!assets-loader?width=600&height=550!@images/${slide}`)"/>
             </v-carousel-item>
           </v-carousel>
@@ -32,18 +33,7 @@
             </v-col>
           </v-row>
           
-          <v-row
-            dense
-            align="center"
-            justify="center"
-          >
-            <v-col class="text-left">
-              <!-- <h2 class="display-1">{{headlines[index]}}</h2> -->
-            </v-col>
-          </v-row>
-
-          <v-row 
-            
+          <v-row   
             align="center"
             justify="center"
           >
@@ -150,6 +140,9 @@ export default {
         "extracurricular/sec_pitch.jpeg",
         "extracurricular/guy_adami_2.jpg",
         "extracurricular/nootrax.jpg",
+        "extracurricular/abu_simbel.jpg",
+        "extracurricular/mexico.jpg",
+        // "extracurricular/cornell_entrepreneurship.mp4",
       ],
       vantaEffect: null,
       index: 0,
