@@ -9,6 +9,7 @@ endDate: 2017-08-20
 img: docxtemplatemanager.png
 thumbnail: docxtemplatemanager.png
 
+github: https://github.com/TheRobotCarlson/DocxTemplateManager
 
 tags: ["python", "excel", "pypi"]
 ---

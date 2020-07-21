@@ -9,6 +9,7 @@ endDate: 2017-08-20
 img: confluency.png
 thumbnail: confluency.png
 
+github: https://github.com/TheRobotCarlson/Confluency
 
 tags: ["python", "rest-api", "pypi", "confluence"]
 ---

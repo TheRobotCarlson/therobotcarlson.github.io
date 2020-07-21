@@ -8,6 +8,8 @@ excerpt: Teaching Algorithms and Reinforcement Learning with Minecraft and Jupyt
 img: algocraft.jpg
 thumbnail: algocraft.jpg
 
+github: https://github.com/TheRobotCarlson/AlgoCraft
+
 tags: ["python", "reinforcement-learning", "jupyter"]
 ---
 
