@@ -1,6 +1,6 @@
 ---
-title: Programming Intern at Belcan Engineering
-position: Programming Intern
+title: Software Engineer at Belcan Engineering
+position: Software Engineer
 company: Belcan Engineering
 excerpt: Designed automation software for error reporting. Built software to detect anomalous implementation and design requirements to ensure designs met government and industry standards.
 
@@ -13,4 +13,6 @@ hours: 40
  
 tags: ["python", "perl", "java", "vbscript", "automation", "reporting"]
 ---
-Worked on quality assessment of airplane control systems. Designed automation software for error reporting of live commercial airplanes. Built software to detect anomalous implementation and design requirements to ensure designs met government and industry standards.
+- Worked on quality assessment of airplane control systems.
+- Designed automation software for error reporting of live commercial airplanes.
+- Built software to detect anomalous implementation and design requirements to ensure designs met government and industry standards.

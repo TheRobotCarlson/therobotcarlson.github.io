@@ -10,7 +10,11 @@ endDate: 2019-10-02
 img: ipop.jpg
 
 hours: 30
-tags: ["python", "postgres", "r", "rshiny", "machine-learning", "data-science"]
+tags: ["python", "postgres", "sql", "bash", "tensorflow", "keras", "r", "rshiny", "machine-learning", "data-science"]
 ---
 
-Wrote machine learning models for detecting anomalies in healthcare charge records. Setup servers and evaluated tools for internal use. Created RShiny apps for visualizing "doctor shoppers" moving inside and across state lines.
+- Setup servers and evaluated tools for internal use.
+- Developed machine learning models for detecting anomalies in healthcare charge records.
+- Developed interactive data visualizations showing the movements of opioid “doctor shoppers” trying to circumvent interstate purchase and prescription restrictions
+- Performed analysis on 20% of the US’s medical records.
+

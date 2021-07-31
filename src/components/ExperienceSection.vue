@@ -30,7 +30,19 @@
     <v-row>
       <v-col style="padding-top: 0">
         <v-timeline :dense="$vuetify.breakpoint.xsOnly">
-        
+          <v-timeline-item v-for="(experience) in currentExperiences" :key="experience.id">
+            <template v-slot:icon>
+              <v-avatar>
+                <g-image :src="'./work/' + experience.node.img"/>
+              </v-avatar>
+            </template>
+            <template v-slot:opposite >
+              <span>{{getWorkLength(experience.node.date, experience.node.endDate)}}</span>
+            </template>
+            
+            <experience-item :experience="experience"/>
+           
+          </v-timeline-item>
           <v-timeline-item v-for="(experience) in experiences" :key="experience.id">
             <template v-slot:icon>
               <v-avatar>
@@ -42,31 +54,7 @@
             </template>
             
             <experience-item :experience="experience"/>
-            <!-- <v-card class="elevation-2">
-              <v-card-title class="headline"><g-link style="color: inherit;" class="g-link" :to="experience.node.path">{{experience.node.position}}</g-link></v-card-title>
-              <v-card-subtitle><h3>{{experience.node.company}}</h3></v-card-subtitle>
-              
-              <v-card-text v-html="experience.node.excerpt"></v-card-text>
-              <v-card-text>
-                <v-chip-group :show-arrows="false">
-                  <v-chip
-                    v-for="tag in experience.node.tags"
-                    :key="tag.id"
-                    :to="tag.path"
-                  >
-                    {{tag.title}}
-                  </v-chip>
-                </v-chip-group>
-              </v-card-text>
-              <v-card-actions>
-                <v-btn
-                  text
-                  :to="experience.node.path"
-                >
-                  Learn More
-                </v-btn>
-              </v-card-actions>
-            </v-card> -->
+           
           </v-timeline-item>
         </v-timeline>
       </v-col>
@@ -87,7 +75,36 @@
 
 <static-query>
 query Experience {
-  experiences: allExperience (sortBy: "endDate", order: DESC, filter: { fileInfo: {directory: {in: ["work"]}}}) {
+  experiences: allExperience (
+    filter: { fileInfo: {directory: {in: ["work"]}}, endDate: { ne: null } },
+    sort:  [{ by: "endDate", order: DESC }]) {
+    edges {
+      node {
+        id
+        title
+        path
+        excerpt
+        position
+        hours
+        date
+        endDate
+        img
+        github
+        devpost
+        company
+        fileInfo{
+          directory
+        }
+        tags {
+          title
+          path
+        }
+      }
+    }
+  }
+  currentExperiences: allExperience (
+    filter: { fileInfo: {directory: {in: ["work"]}}, endDate: { eq: null } },
+    sort:  [{ by: "date", order: DESC }]) {
     edges {
       node {
         id
@@ -129,20 +146,23 @@ export default {
       workLengthString: null,
       totalHours: null,
       equivalentFulltimeString: null,
-      experiences: null, 
+      experiences: null,
+      currentExperiences: null,
       fulltimeString: null,
       numExperiences: 50,
       showSeeAllExperience: true
     } 
   },
   mounted(){
-    var allExperiences = this.$static.experiences.edges;
+    var currentExperiences = this.$static.currentExperiences.edges;
+    var allExperiences = currentExperiences.concat(this.$static.experiences.edges);
 
     var totalHours = 0;
     for(var i = 0; i < allExperiences.length; i++){
       var experience = allExperiences[i].node;
       var start = moment(experience.date);
-      var end = moment(experience.endDate);
+      var endDate = experience.endDate || new Date();
+      var end = moment(endDate);
 
       var weeks = end.diff(start, 'weeks');
       if(experience.hours){
@@ -170,9 +190,18 @@ export default {
   methods: {
     getWorkLength(startDate, endDate){
       var start = moment(startDate);
-      var end = moment(endDate);
-      var workLengthString = this.formatWorkLengthString(start, end);
-      return `${start.format("MMM YYYY")} - ${end.format("MMM YYYY")} (${workLengthString})`;
+      var endDate = endDate;
+
+      if(endDate){
+        var end = moment(endDate);
+        var workLengthString = this.formatWorkLengthString(start, end);
+        return `${start.format("MMM YYYY")} - ${end.format("MMM YYYY")} (${workLengthString})`;
+      } else {
+        endDate = new Date();
+        var end = moment(endDate);
+        var workLengthString = this.formatWorkLengthString(start, end);
+        return `${start.format("MMM YYYY")} - Present (${workLengthString})`;
+      }
     },
     formatEquivalentFulltimeString(start, end, hours){
       var weeks = end.diff(start, 'weeks');

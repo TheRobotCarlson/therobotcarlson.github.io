@@ -98,6 +98,7 @@ export default {
   data(){
     return {
       dateString: null,
+      endDate: null,
       workLengthString: null,
       totalHours: null,
       equivalentFulltimeString: null
@@ -105,19 +106,21 @@ export default {
   },
   mounted(){
     this.dateString = this.$page.experience.date;
+    this.endDate = this.$page.experience.endDate;
 
-    if(this.$page.experience.endDate){
-      
-      var start = moment(this.$page.experience.date.toLocaleString());
-      var end = moment(this.$page.experience.endDate.toLocaleString());
-
-      this.workLengthString = this.formatWorkLengthString(start, end);
-      
-      this.equivalentFulltimeString = this.formatEquivalentFulltimeString(start, end, this.$page.experience.hours);  
-
-      this.dateString = `${start.format("MMM YYYY")} - ${end.format("MMM YYYY")} (${this.workLengthString})`;
-  
+    if(!endDate){
+      this.endDate = new Date();
     }
+
+    var start = moment(this.$page.experience.date.toLocaleString());
+    var end = moment(this.endDate.toLocaleString());
+
+    this.workLengthString = this.formatWorkLengthString(start, end);
+    
+    this.equivalentFulltimeString = this.formatEquivalentFulltimeString(start, end, this.$page.experience.hours);  
+
+    this.dateString = `${start.format("MMM YYYY")} - ${end.format("MMM YYYY")} (${this.workLengthString})`;
+  
 
   },
   methods: {

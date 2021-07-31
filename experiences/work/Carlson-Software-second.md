@@ -13,4 +13,6 @@ hours: 40
 
 tags: ["cmake", "c", "c++", "3d-graphics"]
 ---
-Developed CAD-like polyline drawing capabilities into libraries used for crime scene reconstruction, mining, and civil engineering software. Assisted in the design of optimization algorithms for optimal mining paths discovery used in mining engineering software. Migrated and integrated old codebases with new ones using Cmake.
+- Developed CAD-like polyline drawing capabilities into libraries used for crime scene reconstruction, mining, and civil engineering software.
+- Assisted in the design of optimization algorithms for optimal mining paths discovery used in mining engineering software.
+- Migrated and integrated old codebases with new ones using Cmake.

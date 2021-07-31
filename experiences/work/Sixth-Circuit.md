@@ -13,4 +13,6 @@ hours: 40
 tags: ["python", "automation", "it"]
 ---
 
-Developed security policies and SSP for the IT Security Scorecard of the Sixth Circuit. Wrote document generation software for acceleration of security document completion.
+- Developed security policies and SSP for the IT Security Scorecard of the Sixth Circuit
+- Wrote document generation software for acceleration of document completion
+- Released open source software for templated document generation
