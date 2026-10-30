@@ -1,13 +1,20 @@
-# Brian Carlson's website
+# Brian Carlson site
 
-The React migration lives in [`modern/`](modern/). It uses Bun, React, and TanStack Start and TanStack Router. To run it locally:
+The site uses Bun, React, TanStack Start and TanStack Router. From this directory:
 
 ```sh
-cd modern
 bun install --frozen-lockfile
-bun run dev
+bun run dev          # development server: http://localhost:5173/
+bun run build        # prerendered static site: dist/client/
+bun run preview      # serve that static build: http://localhost:4174/
+bun run typecheck
+bun run test         # build and check content and routes
 ```
 
-The development server prints its local URL. Run `bun run build` and `bun run preview` to inspect the prerendered static site at http://localhost:4174/. Run `bun run test` to build the site and run the content and route checks. See [the migration README](modern/README.md) for the content workflow and production build details.
+The build prerenders each experience, tag and other page to HTML in `dist/client/`. This directory contains the complete static output, including CNAME and a GitHub Pages 404 page. React hydrates the pages for navigation, filters and the carousel. Rebuild to update prerendered content; the preview serves the existing build and does not rebuild it.
 
-GitHub Pages publishes the generated files at the repository root from `main`. The original Gridsome/Vue source remains on the `build` branch and the earlier published site remains in Git history.
+The content build imports editable Markdown in `experiences/`. Edits are recompiled by the development server and included in subsequent builds. Each file has an explicit `slug` that preserves its URL independently of its title. `published-routes.json`, `published-overrides.json`, `published-details.json`, and `src/published-tags.json` retain reference data for the parity audit. Primer.ai was reconstructed from the published site because it was absent from the `build` branch.
+
+The image build creates responsive WebP variants of the carousel originals in `public/optimized/`, without enlarging source images. This generated directory is ignored by Git and rebuilt by `bun run dev` and `bun run build`; the originals remain in `public/extracurricular/`. The first image is limited by its 1280-pixel-wide source, so a higher-resolution original would be needed for additional detail on high-density displays.
+
+The GitHub Actions Pages workflow builds and publishes `dist/client/` on pushes to `main`. Generated output is not committed. The original Gridsome/Vue source and previous published files remain in Git history. Building and previewing locally do not publish the site.
