@@ -16,9 +16,9 @@ tags:
   - docker-compose
   - nlp
 date: '2021-10-05T00:00:00.000Z'
-endDate: null
+endDate: '2026-01'
 hours: 40
-excerpt: Writing software around custom-built NLP tools.
+excerpt: Built software around custom NLP tools.
 subtitle: ''
 slug: senior-software-engineer-at-primer-ai
 ---

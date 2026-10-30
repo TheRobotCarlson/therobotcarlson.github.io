@@ -6,7 +6,7 @@ excerpt: >-
   Designed and built stock and option trading platform with a built in
   voice-assistant and AI for back-office automation.
 date: '2019-06-01T00:00:00.000Z'
-endDate: null
+endDate: '2023-06'
 img: tacoai.png
 hours: 25
 tags:

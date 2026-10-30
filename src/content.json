@@ -104,6 +104,20 @@
     "source": "experiences/work/University-of-Kentucky.md"
   },
   {
+    "title": "Cofounder and Technical Lead at Truer Health",
+    "position": "Cofounder and Technical Lead",
+    "company": "Truer Health",
+    "website": "https://truer.co",
+    "slug": "cofounder-and-technical-lead-at-truer-health",
+    "date": "2026-01",
+    "endDate": null,
+    "excerpt": "Building Truer Health.",
+    "tags": [],
+    "kind": "work",
+    "html": "<p>Cofounder and Technical Lead at <a href=\"https://truer.co\">Truer Health</a>.</p>\n",
+    "source": "experiences/work/Truer-Health.md"
+  },
+  {
     "title": "Data Engineer at HealthVerity",
     "position": "Data Engineer",
     "company": "HealthVerity",
@@ -222,7 +236,7 @@
     "company": "TacoAI",
     "excerpt": "Designed and built stock and option trading platform with a built in voice-assistant and AI for back-office automation.",
     "date": "2019-06-01T00:00:00.000Z",
-    "endDate": null,
+    "endDate": "2023-06",
     "img": "tacoai.png",
     "hours": 25,
     "tags": [
@@ -278,9 +292,9 @@
       "nlp"
     ],
     "date": "2021-10-05T00:00:00.000Z",
-    "endDate": null,
+    "endDate": "2026-01",
     "hours": 40,
-    "excerpt": "Writing software around custom-built NLP tools.",
+    "excerpt": "Built software around custom NLP tools.",
     "subtitle": "",
     "slug": "senior-software-engineer-at-primer-ai",
     "kind": "work",
@@ -524,7 +538,7 @@
     "subtitle": "",
     "slug": "student-programmer-at-western-kentucky-university-physics-department",
     "kind": "work",
-    "html": "<p>Created Monte Carlo simulations for research on <a href=\"https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer\">Förster Resonance Energy Transfer</a> (FRET) for Dr. Wieb van der Meer at Western Kentucky University. After running the simulation over a range of input angles, chromophore distance, and emission spectrum values and getting the quantum yield efficiency, I modeled the data to a series of equations that simplified existing models and provided more useful data. I also build a <a href=\"/projects/fret/\">visualization tool</a> for better visualizing the equations around FRET.</p>\n",
+    "html": "<p>Created Monte Carlo simulations for research on <a href=\"https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer\">Förster Resonance Energy Transfer</a> (FRET) for Dr. Wieb van der Meer at Western Kentucky University. After running the simulation over a range of input angles, chromophore distance, and emission spectrum values and getting the quantum yield efficiency, I modeled the data to a series of equations that simplified existing models and provided more useful data. I also build a <a href=\"/experiences/fret-visualizer/\">visualization tool</a> for better visualizing the equations around FRET.</p>\n",
     "source": "experiences/work/Physics-Research.md"
   },
   {

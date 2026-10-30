@@ -1,3 +1,11 @@
-import { createFileRoute } from '@tanstack/react-router';
-import { About } from '../site';
-export const Route = createFileRoute('/about')({component: About, head: () => ({meta: [{title: 'About us - Brian Carlson'}]})});
+import { createFileRoute } from "@tanstack/react-router";
+import { LegacyRedirect } from "../site";
+export const Route = createFileRoute("/about")({
+  component: LegacyRedirect,
+  head: () => ({
+    meta: [
+      { title: "Page moved - Brian Carlson" },
+      { httpEquiv: "refresh", content: "0; url=/#about" },
+    ],
+  }),
+});
