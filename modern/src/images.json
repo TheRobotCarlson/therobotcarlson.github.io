@@ -1,0 +1,50 @@
+{
+  "megan_brian_pitch_sm_2.jpg": {
+    "src": "/optimized/megan_brian_pitch_sm_2-1280.webp",
+    "srcSet": "/optimized/megan_brian_pitch_sm_2-640.webp 640w, /optimized/megan_brian_pitch_sm_2-960.webp 960w, /optimized/megan_brian_pitch_sm_2-1280.webp 1280w",
+    "width": 1280,
+    "height": 1093
+  },
+  "mirrorcube.png": {
+    "src": "/optimized/mirrorcube-2401.webp",
+    "srcSet": "/optimized/mirrorcube-640.webp 640w, /optimized/mirrorcube-960.webp 960w, /optimized/mirrorcube-1280.webp 1280w, /optimized/mirrorcube-1920.webp 1920w, /optimized/mirrorcube-2401.webp 2401w",
+    "width": 2401,
+    "height": 1801
+  },
+  "south_suburban_humane.jpg": {
+    "src": "/optimized/south_suburban_humane-4608.webp",
+    "srcSet": "/optimized/south_suburban_humane-640.webp 640w, /optimized/south_suburban_humane-960.webp 960w, /optimized/south_suburban_humane-1280.webp 1280w, /optimized/south_suburban_humane-1920.webp 1920w, /optimized/south_suburban_humane-2560.webp 2560w, /optimized/south_suburban_humane-4608.webp 4608w",
+    "width": 4608,
+    "height": 3456
+  },
+  "sec_pitch.jpeg": {
+    "src": "/optimized/sec_pitch-2048.webp",
+    "srcSet": "/optimized/sec_pitch-640.webp 640w, /optimized/sec_pitch-960.webp 960w, /optimized/sec_pitch-1280.webp 1280w, /optimized/sec_pitch-1920.webp 1920w, /optimized/sec_pitch-2048.webp 2048w",
+    "width": 2048,
+    "height": 1536
+  },
+  "guy_adami_2.jpg": {
+    "src": "/optimized/guy_adami_2-3414.webp",
+    "srcSet": "/optimized/guy_adami_2-640.webp 640w, /optimized/guy_adami_2-960.webp 960w, /optimized/guy_adami_2-1280.webp 1280w, /optimized/guy_adami_2-1920.webp 1920w, /optimized/guy_adami_2-2560.webp 2560w, /optimized/guy_adami_2-3414.webp 3414w",
+    "width": 3414,
+    "height": 3413
+  },
+  "nootrax.jpg": {
+    "src": "/optimized/nootrax-4608.webp",
+    "srcSet": "/optimized/nootrax-640.webp 640w, /optimized/nootrax-960.webp 960w, /optimized/nootrax-1280.webp 1280w, /optimized/nootrax-1920.webp 1920w, /optimized/nootrax-2560.webp 2560w, /optimized/nootrax-4608.webp 4608w",
+    "width": 4608,
+    "height": 3456
+  },
+  "abu_simbel.jpg": {
+    "src": "/optimized/abu_simbel-4608.webp",
+    "srcSet": "/optimized/abu_simbel-640.webp 640w, /optimized/abu_simbel-960.webp 960w, /optimized/abu_simbel-1280.webp 1280w, /optimized/abu_simbel-1920.webp 1920w, /optimized/abu_simbel-2560.webp 2560w, /optimized/abu_simbel-4608.webp 4608w",
+    "width": 4608,
+    "height": 3072
+  },
+  "mexico.jpg": {
+    "src": "/optimized/mexico-1280.webp",
+    "srcSet": "/optimized/mexico-640.webp 640w, /optimized/mexico-960.webp 960w, /optimized/mexico-1280.webp 1280w",
+    "width": 1280,
+    "height": 960
+  }
+}

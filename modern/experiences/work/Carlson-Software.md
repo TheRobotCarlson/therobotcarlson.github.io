@@ -1,0 +1,25 @@
+---
+title: Software Engineering Intern at Carlson Software
+position: Software Engineering Intern
+company: Carlson Software
+excerpt: Developed faster algorithms for 3D point clouds and 3D model imports
+date: '2015-05-10T00:00:00.000Z'
+endDate: '2015-08-20T00:00:00.000Z'
+img: carlson.png
+hours: 40
+tags:
+  - c#
+  - java
+  - .net
+  - mysql
+  - javascript
+  - full-stack
+  - 3d-graphics
+github: ''
+devpost: ''
+subtitle: ''
+slug: software-engineering-intern-at-carlson-software
+---
+- Developed the full stack platform for displaying vendor product models that could be imported into modeling software product.
+- Responsible for the MySQL setup, .NET development, and scripts to search, filter, import, and serve the product models.
+- Developed faster algorithms for 3D point clouds using a custom KD-tree used in mining software.

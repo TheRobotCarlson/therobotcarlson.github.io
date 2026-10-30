@@ -1,0 +1,351 @@
+{
+  "Get High Don't Die": {
+    "excerpt": "Get useful safety information about drugs you're taking or might be taking. Stay safe!",
+    "date": "2020-02-22T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/drug-interaction-explorer",
+    "devpost": "https://devpost.com/software/get-high-don-t-die"
+  },
+  "MedCheck": {
+    "excerpt": "MedCheck Is a medication adherence utility that runs primarily through the Amazon Echo, Echo Dot, and other Alexa enabled IOT Devices.",
+    "date": "2016-09-03T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/MedCheck",
+    "devpost": "https://devpost.com/software/medcheck-409oqi"
+  },
+  "RESearch": {
+    "excerpt": "RESearch (<u>R</u>estriction <u>E</u>nzyme <u>Search</u>) uses existing databases of genes and restriction enzymes to find the optimal way to encode arbitrary information into DNA.",
+    "date": "2018-02-18T00:00:00.000Z",
+    "github": "https://github.com/zsilver1/RESearch",
+    "devpost": "https://devpost.com/software/research-1osetc"
+  },
+  "GlobeTalk": {
+    "excerpt": "Helping immigrants and refugees learn languages one chat at a time.",
+    "date": "2018-03-25T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/GlobeTalk",
+    "devpost": "https://devpost.com/software/globetalk"
+  },
+  "Morning Maker": {
+    "excerpt": "Coffee makers are schedulable, why can't toaster ovens be?",
+    "date": "2018-09-15T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "Lightswitchd": {
+    "excerpt": "Lightswitchd is a home automation solution for anything that hooks into the wall.",
+    "date": "2017-08-02T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "Photoshoplifting": {
+    "excerpt": "Photoediting sucks! We wanted to make an easy way to do a normally hard and tedious task or removing arbitrary objects from images.",
+    "date": "2017-04-16T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/photoshoplifting",
+    "devpost": ""
+  },
+  "Lucra Machina": {
+    "excerpt": "A google cloud based cryptocurrency trading framework.",
+    "date": "2017-08-02T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "RealiType": {
+    "excerpt": "RealiType is a natural gesture controlled VR experience with no controllers except your hands and body.",
+    "date": "2015-01-01T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "DocxTemplate": {
+    "excerpt": "Templated Document Manager with imports from Excel",
+    "date": "2017-08-18T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/DocxTemplateManager",
+    "devpost": ""
+  },
+  "Confluency": {
+    "excerpt": "A simple library for interfacing with Confluence REST API with caching for repeated requests.",
+    "date": "2017-08-18T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/Confluency",
+    "devpost": ""
+  },
+  "FRET Visualizer": {
+    "excerpt": "An interactive tool for visualizing the physics of F\u00f6rster Resonance Energy Transfer (FRET).",
+    "date": "2014-05-01T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/fret",
+    "devpost": ""
+  },
+  "DocxMerge": {
+    "excerpt": "A simple library for merging Microsoft Word Documents with priority.",
+    "date": "2017-08-18T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/docxmerge",
+    "devpost": ""
+  },
+  "HackerTyperVR": {
+    "excerpt": "A VR version of the \"hackertyper\" experience using the HTC Vive and Unity",
+    "date": "2016-08-02T00:00:00.000Z",
+    "github": "",
+    "devpost": "https://devpost.com/software/hacker-typer-vr"
+  },
+  "Verbum Usus": {
+    "excerpt": "A tool for visualizing how word usage differs between different gender pairs.",
+    "date": "2014-03-02T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/Verbum-Usus",
+    "devpost": ""
+  },
+  "Laser Projector": {
+    "excerpt": "Laser Projector, Final Project for EE383. Modified to include wifi, scoreboard, and is powered by the Texas Instrument's Tiva C LaunchPad.",
+    "date": "2018-07-02T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "Brewio": {
+    "excerpt": "Aggregation and analysis of data that predicts the demand for batches of bourbon.",
+    "date": "2018-11-18T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "KramerBot": {
+    "excerpt": "A chatbot for assisting in psychology studies, written in Rivescript.",
+    "date": "2016-09-10T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "AlgoCraft": {
+    "excerpt": "Teaching Algorithms and Reinforcement Learning with Minecraft and Jupyter Notebooks.",
+    "date": "2018-12-02T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/AlgoCraft",
+    "devpost": ""
+  },
+  "Hypervise": {
+    "excerpt": "Search any state space using as many resources as you want while using the best version of your model so far",
+    "date": "2018-07-30T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "eyeRoom": {
+    "excerpt": "Find out if your friends are in the hangout place using OpenCV and chatbots!",
+    "date": "2018-03-04T00:00:00.000Z",
+    "github": "https://github.com/therobotcarlson/eyeRoom",
+    "devpost": "https://devpost.com/software/eyeroom"
+  },
+  "Factorem": {
+    "excerpt": "A google cloud based cryptocurrency trading framework.",
+    "date": "2018-07-02T00:00:00.000Z",
+    "github": "",
+    "devpost": "https://devpost.com/software/pecunia-factorem"
+  },
+  "AutoArt": {
+    "excerpt": "Neural Style Transfered Art, automatically applied to merchandise for sale.",
+    "date": "2019-06-02T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "Pok\u00e9bot": {
+    "excerpt": "Playing Pok\u00e9mon with Interactive Learning in Large State Space",
+    "date": "2018-07-02T00:00:00.000Z",
+    "github": "https://github.com/TheRobotCarlson/pokebot",
+    "devpost": ""
+  },
+  "Bars?": {
+    "excerpt": "Chat integration platform for helping people organize friends to go out to bars.",
+    "date": "2017-11-22T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "Distilled": {
+    "excerpt": "An Enterprise Resource Planner for Distilleries and Breweries.",
+    "date": "2019-01-02T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "IntraFeed": {
+    "excerpt": "An internal feedback app for anonymous company improvement",
+    "date": "2015-11-21T00:00:00.000Z",
+    "github": "",
+    "devpost": ""
+  },
+  "Co-founder at Lucra Trading": {
+    "excerpt": "Developed an automated cryptocurrency trading platform that's been live trading since August 2020 with over 250% returns.",
+    "position": "Co-founder",
+    "hours": 10,
+    "date": "2019-08-02T00:00:00.000Z",
+    "endDate": "2021-10-05T00:00:00.000Z",
+    "img": "lucratrading.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Data Engineer at HealthVerity": {
+    "excerpt": "Automated big data pipelines for healthcare data using Spark",
+    "position": "Data Engineer",
+    "hours": 40,
+    "date": "2020-08-04T00:00:00.000Z",
+    "endDate": "2021-10-01T00:00:00.000Z",
+    "img": "healthverity.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Data Engineer at Fishback Management and Research": {
+    "excerpt": "Created a backtesting framework to improve internal stock option ranking metrics. Wrote AI to improve stock options trading strategies.",
+    "position": "Data Engineer",
+    "hours": 40,
+    "date": "2019-02-02T00:00:00.000Z",
+    "endDate": "2020-06-04T00:00:00.000Z",
+    "img": "odds.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Data Scientist at Institute of Pharmaceutical Outcomes and Policy": {
+    "excerpt": "Wrote machine learning models for detecting anomalies in healthcare charge records",
+    "position": "Data Scientist",
+    "hours": 30,
+    "date": "2019-02-02T00:00:00.000Z",
+    "endDate": "2019-10-02T00:00:00.000Z",
+    "img": "ipop.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Student at University of Kentucky": {
+    "excerpt": "Graduated with degrees in Computer Science, Computer Engineering, and a minor in Math. Led UK's ACM chapter and organized workshops and hackathons.",
+    "position": "Student",
+    "hours": null,
+    "date": "2015-08-20T00:00:00.000Z",
+    "endDate": "2019-05-08T00:00:00.000Z",
+    "img": "uky.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Software Engineer at 84.51\u00b0": {
+    "excerpt": "Worked on the orchestration layer of a tool for enabling a cloud-based data science pipeline.",
+    "position": "Software Engineer",
+    "hours": 40,
+    "date": "2018-06-02T00:00:00.000Z",
+    "endDate": "2018-08-22T00:00:00.000Z",
+    "img": "8451.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Head of Crypto Asset Management at TWW Family Holdings L.L.L.P.": {
+    "excerpt": "Built a high-availability, highly parallel, intelligent cryptocurrency bot trading platform from the ground up. Involved stress testing, parallel programming, cloud computing, machine learning, and artificial intelligence.",
+    "position": "Head of Crypto Asset Management",
+    "hours": 40,
+    "date": "2018-01-10T00:00:00.000Z",
+    "endDate": "2018-05-02T00:00:00.000Z",
+    "img": "crypto.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Lab Assistant at UKY Engineering Innovation Center": {
+    "excerpt": "Maintained 3D printers, laser cutters, and other tools in the Makerspace. Assisted in the creation of student and professor projects, helping bring ideas from the drawing board into real life.",
+    "position": "Lab Assistant",
+    "hours": 20,
+    "date": "2017-09-02T00:00:00.000Z",
+    "endDate": "2017-12-02T00:00:00.000Z",
+    "img": "uky.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Security Engineer II at United States Court of Appeals for the Sixth Circuit IT": {
+    "excerpt": "Developed security policies and SSP for the IT Security Scorecard for the Sixth Circuit and lower courts. Wrote document generation software for acceleration of security document completion.",
+    "position": "Security Engineer II",
+    "hours": 40,
+    "date": "2017-06-02T00:00:00.000Z",
+    "endDate": "2017-08-21T00:00:00.000Z",
+    "img": "court.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Software Engineer at Belcan Engineering": {
+    "excerpt": "Designed automation software for error reporting. Built software to detect anomalous implementation and design requirements to ensure designs met government and industry standards.",
+    "position": "Software Engineer",
+    "hours": 40,
+    "date": "2017-01-10T00:00:00.000Z",
+    "endDate": "2017-05-05T00:00:00.000Z",
+    "img": "belcan.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Research Assistant at University of Kentucky Psychology Department": {
+    "excerpt": "Provided insight for guiding human interaction in creativity studies. Developed a chatbot for aiding research studies using chat data gathered from Discord servers. Created virtual chat agents inside Second Life game for studies.",
+    "position": "Research Assistant",
+    "hours": 20,
+    "date": "2016-09-02T00:00:00.000Z",
+    "endDate": "2016-12-10T00:00:00.000Z",
+    "img": "uky.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Software Engineering Intern at Carlson Software (again)": {
+    "excerpt": "Developed CAD-like polyline capabilities, integrated old codebases",
+    "position": "Software Engineering Intern",
+    "hours": 40,
+    "date": "2016-05-10T00:00:00.000Z",
+    "endDate": "2016-08-20T00:00:00.000Z",
+    "img": "carlson.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Programming Paraprofessional at UKY Center for Drug and Alcohol Research": {
+    "excerpt": "Worked with PHP/MySQL for several large studies on the effectiveness of substance abuse treatment programs. Worked with the Yii and LimeSurvey frameworks alongside SourceTree for version control.",
+    "position": "Programming Paraprofessional",
+    "hours": 20,
+    "date": "2016-02-10T00:00:00.000Z",
+    "endDate": "2016-05-02T00:00:00.000Z",
+    "img": "uky.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Student Programmer at Western Kentucky University Physics Department": {
+    "excerpt": "Created Monte Carlo simulations for research on F\u00f6rster Resonance Energy Transfer. Created a visualization tool for understanding the equations surrounding FRET.",
+    "position": "Student Programmer",
+    "hours": 20,
+    "date": "2013-11-02T00:00:00.000Z",
+    "endDate": "2015-09-02T00:00:00.000Z",
+    "img": "wku.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Software Engineering Intern at Carlson Software": {
+    "excerpt": "Developed faster algorithms for 3D point clouds and 3D model imports",
+    "position": "Software Engineering Intern",
+    "hours": 40,
+    "date": "2015-05-10T00:00:00.000Z",
+    "endDate": "2015-08-20T00:00:00.000Z",
+    "img": "carlson.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Student at Gatton Academy": {
+    "excerpt": "Attended a residential STEM highschool, learning with some of the brightest minds from Kentucky",
+    "position": "Student",
+    "hours": null,
+    "date": "2013-08-02T00:00:00.000Z",
+    "endDate": "2015-05-02T00:00:00.000Z",
+    "img": "gatton.jpg",
+    "github": "",
+    "devpost": ""
+  },
+  "Student Programmer at Western Kentucky University Psychology Department": {
+    "excerpt": "Built interactive visualizations for word usage differences by gender",
+    "position": "Student Programmer",
+    "hours": 20,
+    "date": "2014-03-02T00:00:00.000Z",
+    "endDate": "2014-05-02T00:00:00.000Z",
+    "img": "wku.png",
+    "github": "",
+    "devpost": ""
+  },
+  "President & Lead Architect at TacoAI": {
+    "excerpt": "Designed and built stock and option trading platform with a built in voice-assistant and AI for back-office automation.",
+    "position": "President & Lead Architect",
+    "hours": 25,
+    "date": "2019-06-01T00:00:00.000Z",
+    "endDate": null,
+    "img": "tacoai.png",
+    "github": "",
+    "devpost": ""
+  },
+  "Senior Software Engineer at Primer.ai": {
+    "date": "2021-10-05T00:00:00.000Z",
+    "endDate": null,
+    "hours": 40,
+    "excerpt": "Writing software around custom-built NLP tools.",
+    "img": "primerai.png"
+  }
+}

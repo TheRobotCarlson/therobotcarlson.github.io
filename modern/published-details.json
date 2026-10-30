@@ -1,0 +1,416 @@
+{
+  "DocxMerge": {
+    "subtitle": "A simple library for merging Microsoft Word Documents with priority.",
+    "position": "",
+    "hours": null,
+    "date": "2017-08-18T00:00:00.000Z",
+    "endDate": "2017-08-20T00:00:00.000Z",
+    "content": "",
+    "company": ""
+  },
+  "KramerBot": {
+    "subtitle": "A chatbot for assisting in psychology studies",
+    "position": "",
+    "hours": null,
+    "date": "2016-09-10T00:00:00.000Z",
+    "endDate": "2016-12-10T00:00:00.000Z",
+    "content": "\r\n",
+    "company": ""
+  },
+  "Photoshoplifting": {
+    "subtitle": "A quick automated way to do photoshop's content aware fill to remove unwanted objects from images.",
+    "position": "",
+    "hours": null,
+    "date": "2017-04-16T00:00:00.000Z",
+    "endDate": "2017-04-17T00:00:00.000Z",
+    "content": "Give our api an image and a rough ellipse around what you want to get rid of and our algorithms do the rest, removing unwanted people, backgrounds, or things. Sometimes people's heads. I was responsible for the Python code using scikit-image that was written and the Mathematica code for the inpainting. I also setup a Django server to run the Python code and connect the cloud-deployed Mathematica code.",
+    "company": ""
+  },
+  "Software Engineer at 84.51°": {
+    "subtitle": "",
+    "position": "Software Engineer",
+    "hours": 40,
+    "date": "2018-06-02T00:00:00.000Z",
+    "endDate": "2018-08-22T00:00:00.000Z",
+    "content": "\r\n- Developed the orchestration layer of a tool for enabling a Google Cloud-based data science pipeline, linking data lakes, compute clusters, and managed Jupyter notebooks\r\n- Facilitated communication between data scientist end users, product engineers, and DevOps teams over topics including security, optimization, and integration with existing infrastructure.\r\n",
+    "company": "84.51°"
+  },
+  "Bars?": {
+    "subtitle": "Chat integration platform for helping people organize friends to go out to bars.",
+    "position": "",
+    "hours": null,
+    "date": "2017-11-22T00:00:00.000Z",
+    "endDate": "2017-11-23T00:00:00.000Z",
+    "content": "\r\nBars? is a set of chat integrations (iOS, Telegram) that provide an easy and common interface for persuading friends to go out to bars. Often times, you don't want to go out to bars alone, but it can be a bit of a hassle to message everyone or clog the group chat with conversation about who's going and where they're going.\r\n\r\nBars? is build with a Telegram chat bot with a Firebase backend. Bars? uses Telegram buttons and inplace keyboards to allow for a fluid conversation experience.",
+    "company": ""
+  },
+  "Software Engineering Intern at Carlson Software (again)": {
+    "subtitle": "",
+    "position": "Software Engineering Intern",
+    "hours": 40,
+    "date": "2016-05-10T00:00:00.000Z",
+    "endDate": "2016-08-20T00:00:00.000Z",
+    "content": "- Developed CAD-like polyline drawing capabilities into libraries used for crime scene reconstruction, mining, and civil engineering software.\r\n- Assisted in the design of optimization algorithms for optimal mining paths discovery used in mining engineering software.\r\n- Migrated and integrated old codebases with new ones using Cmake.\r\n",
+    "company": "Carlson Software (again)"
+  },
+  "HackerTyperVR": {
+    "subtitle": "A Hollywood hacking simulator on the HTC Vive",
+    "position": "",
+    "hours": null,
+    "date": "2016-08-02T00:00:00.000Z",
+    "endDate": "2016-08-03T00:00:00.000Z",
+    "content": "Won second place overall in HackTheHill Fall 2016 Hackathon. In the game, you're an agent trying to hack into a terminal using two buttons while Edward Snowden tries to stop you. You must fight back before he reaches you or it's game over. Difficulties included collision physics, simulated terminals, and spawn mechanics.",
+    "company": ""
+  },
+  "Verbum Usus": {
+    "subtitle": "A tool for visualizing how word usage differs between different gender pairs.",
+    "position": "",
+    "hours": null,
+    "date": "2014-03-02T00:00:00.000Z",
+    "endDate": "2014-05-02T00:00:00.000Z",
+    "content": "",
+    "company": ""
+  },
+  "IntraFeed": {
+    "subtitle": "An internal feedback app for anonymous company improvement",
+    "position": "",
+    "hours": null,
+    "date": "2015-11-21T00:00:00.000Z",
+    "endDate": "2015-11-22T00:00:00.000Z",
+    "content": "An internal feedback app for anonymous company improvement. Using Firebase, a bootstrap website, and a Swift app, my group built an app that would allow employees to give anonymous feedback for company improvement. This came about after some members of our group worked in the Norwegian steel industry and said many employees had ideas for improvement, but weren't sure how to bring them up to their bosses or if the improvements might lead to negative consequences for themselves. This was our solution to that problem.\r\n\r\nWe received second place in the main event and also second place in the People’s Choice award.",
+    "company": ""
+  },
+  "Data Scientist at Institute of Pharmaceutical Outcomes and Policy": {
+    "subtitle": "",
+    "position": "Data Scientist",
+    "hours": 30,
+    "date": "2019-02-02T00:00:00.000Z",
+    "endDate": "2019-10-02T00:00:00.000Z",
+    "content": "\r\n- Setup servers and evaluated tools for internal use.\r\n- Developed machine learning models for detecting anomalies in healthcare charge records.\r\n- Developed interactive data visualizations showing the movements of opioid “doctor shoppers” trying to circumvent interstate purchase and prescription restrictions\r\n- Performed analysis on 20% of the US’s medical records.\r\n\r\n",
+    "company": "Institute of Pharmaceutical Outcomes and Policy"
+  },
+  "Co-founder at Lucra Trading": {
+    "subtitle": "",
+    "position": "Co-founder",
+    "hours": 10,
+    "date": "2019-08-02T00:00:00.000Z",
+    "endDate": "2021-10-05T00:00:00.000Z",
+    "content": "- Architected and developed an automated cryptocurrency investing platform that has been live trading since August 2020, managing over 250% returns with a Sharpe Ratio of 2.1.\r\n- Led developers through sprints for designing, testing, and deploying automated trading systems.\r\n- Developed streaming algorithms to perform rapid streaming analytics from a single pass of the data with extremely low memory requirements and low latency.\r\n- Developed custom backtesting system that allowed for rapid iteration of strategy testing.\r\n- Developed trading system to perform strategy searching from starting suggestions, allowing the system to continually improve and adapt to market conditions. A reinforcement learning agent makes re-training given the market analytics streams.\r\n",
+    "company": "Lucra Trading"
+  },
+  "AutoArt": {
+    "subtitle": "Auto-Styled Art for sale",
+    "position": "",
+    "hours": null,
+    "date": "2019-06-02T00:00:00.000Z",
+    "endDate": "2019-06-14T00:00:00.000Z",
+    "content": "",
+    "company": ""
+  },
+  "Research Assistant at University of Kentucky Psychology Department": {
+    "subtitle": "",
+    "position": "Research Assistant",
+    "hours": 20,
+    "date": "2016-09-02T00:00:00.000Z",
+    "endDate": "2016-12-10T00:00:00.000Z",
+    "content": "\r\nProvided insight for guiding human interaction in creativity studies. Developed a chatbot for aiding research studies using chat data gathered from Discord servers. Created virtual chat agents inside Second Life game for studies.\r\n\r\nDuring this time, I analyzed over 1.5 million chat messages from across over 300 Discord chat servers and built a chatbot that acted like a subset of that server.",
+    "company": "University of Kentucky Psychology Department"
+  },
+  "eyeRoom": {
+    "subtitle": "Find out if your friends are in the hangout place!",
+    "position": "",
+    "hours": null,
+    "date": "2018-03-04T00:00:00.000Z",
+    "endDate": "2018-03-05T00:00:00.000Z",
+    "content": "\r\n## Inspiration\r\nWe're a part of our school's local ACM chapter. We have a club room that people hang out in during the day and into the night. It serves as a hangout spot, a study spot, and a club social outreach center. There's a problem when you have a large organization and a small room, though. Sometimes people come in wanting to study and find it jam packed full of people. Other times people come into the room expecting to hang out with their friends only to find the room empty! Sometimes members are only looking for specific other members while trying to avoid particular people. \r\n\r\nWe decided an automated solution to this would save us some hassle.\r\n\r\n## What it does\r\nUsing opencv, running on a raspberry pi with a webcam, we capture images of a room and determine the number of individuals in the room. The image of the room and the meta data is then pushed to a firebase server. A telegram bot can be used to access the server and report to users the status of the room.\r\n\r\n## How we built it\r\n * opencv + raspberry pi w/ camera for image processing of the room.\r\n * firebase database for storage of data\r\n * python telegram bot for user interface\r\n    * python-telegram-bot\r\n    * pyerbase\r\n * dynamic webpage for user interface\r\n    * html5\r\n    * css\r\n    * javascript\r\n    * firebase\r\n\r\n## Challenges we ran into\r\n * Amazon lambda and Amazon Alexa skills turned out taking a longer time than expected to get working.\r\n * Compile time and network conditions slowed progress.\r\n\r\n## Accomplishments that we're proud of\r\n * We stack cups really well.\r\n * A healthy amount of code was finished within the first 12 hours, compile times delayed the remaining portions.\r\n\r\n## What we learned\r\n * Opportunity to work with new languages and packages.\r\n\r\n## What's next for eyeRoom\r\n * Integrate Alexa skills as another form of user interface.\r\n",
+    "company": ""
+  },
+  "Student Programmer at Western Kentucky University Psychology Department": {
+    "subtitle": "",
+    "position": "Student Programmer",
+    "hours": 20,
+    "date": "2014-03-02T00:00:00.000Z",
+    "endDate": "2014-05-02T00:00:00.000Z",
+    "content": "For this research study, I scraped publicly available Facebook data (with approval from the IRB) to find if there was a difference in the types of words different genders used when talking to one another. Using this data, I built an interactive visualization for the resulting analysis. Work done under Dr. Lance Hahn at WKU.\r\n",
+    "company": "Western Kentucky University Psychology Department"
+  },
+  "Head of Crypto Asset Management at TWW Family Holdings L.L.L.P.": {
+    "subtitle": "",
+    "position": "Head of Crypto Asset Management",
+    "hours": 40,
+    "date": "2018-01-10T00:00:00.000Z",
+    "endDate": "2018-05-02T00:00:00.000Z",
+    "content": "\r\nBuilt a high-availability, highly parallel, intelligent cryptocurrency bot trading platform from the ground up. Involved stress testing, parallel programming, cloud computing, machine learning, and artificial intelligence.\r\n",
+    "company": "TWW Family Holdings L.L.L.P."
+  },
+  "DocxTemplate": {
+    "subtitle": "Templated Document Manager with imports from Excel",
+    "position": "",
+    "hours": null,
+    "date": "2017-08-18T00:00:00.000Z",
+    "endDate": "2017-08-20T00:00:00.000Z",
+    "content": "During my time at the Sixth Circuit I wrote scripts that allowed a user to pass templated docx files and an Excel spreadsheet to generate documents, tracking changes. Created libraries for managing and merging word documents from multiple sources.\r\n",
+    "company": ""
+  },
+  "Lucra Machina": {
+    "subtitle": "An AI-first cryptocurrency trading platform using cutting edge",
+    "position": "",
+    "hours": null,
+    "date": "2017-08-02T00:00:00.000Z",
+    "endDate": "2020-07-14T00:00:00.000Z",
+    "content": "\r\n- Built and optimized a cryptocurrency trading bot framework and bots to run on it, my main project for the last 2 - 3 years.  \r\n\r\n- Started with Python multiprocessing, worker-queue model and MongoDB for concurrent data pipeline management, transitioned into a pub-sub model running on AWS.\r\n\r\n- Executed orders from simultaneously across multiple exchanges with extremely small (> 10 ms) difference in timing.\r\n\r\n- Created custom online-math module to calculate key statistics and trade triggers very quickly in a single pass.\r\n\r\n- Trained a reinforcement learning model to  choose which strategies should be active and if they need to be re-trained.\r\n\r\n- Created status and management pages in Vue for monitoring training progress, internal notifications, live trading account balance, and training backtest time periods.\r\n\r\n- Led multiple separate teams for development on project.\r\n\r\n- Won two separate pitch competitions for idea, winning  $750 and $2000",
+    "company": ""
+  },
+  "RealiType": {
+    "subtitle": "Natural Gesture Controlled VR",
+    "position": "",
+    "hours": null,
+    "date": "2015-01-01T00:00:00.000Z",
+    "endDate": "2015-01-30T00:00:00.000Z",
+    "content": "\r\nI had seen all kinds of clips of people using VR in various applications ranging from medical to engineering. At the time of building this application, every one of those VR applications required a clunky controller or required the user to use a mouse and buttons on the keyboard, but I had recently seen the Microsoft Kinect in action and knew that gesture control in-application avatar movement could be controlled using natural movements. If you remember, Oculus didn't have the touch controllers until December 2016 and the HoloLens wasn't even announced until March of 2016.\r\n\r\nWhile at the Gatton Academy, I became more familiar with software systems and wrote a proposal for the school to fund my idea. I led a team of 3 other students over 3 weeks with no previous Kinect, Oculus, or Unity experience. In the end, we built a demo application combining the Oculus Rift and Kinect into one software package before any other similar project had been made. \r\n\r\nThis project allowed free movement in the VR environment using just your body. You could walk around and pick up and interact with objects in the virtual environment with just your hands (no controller needed). A future plan was to add in support for loading in the environment surrounding you using multiple Kinects, but we never got that far!",
+    "company": ""
+  },
+  "Pokébot": {
+    "subtitle": "Interactive Machine Learning Pokémon agent",
+    "position": "",
+    "hours": null,
+    "date": "2018-07-02T00:00:00.000Z",
+    "endDate": "2018-08-02T00:00:00.000Z",
+    "content": "Built an agent to automatically login, pick a team, setup a match, and play matches on pokemonshowdown.com. Interactive machine learning tools allow it to learn optimal gameplay from demonstration and positive/negative reward.",
+    "company": ""
+  },
+  "MedCheck": {
+    "subtitle": "A Friendly Medication Assistant for the elderly or forgetful",
+    "position": "",
+    "hours": null,
+    "date": "2016-09-03T00:00:00.000Z",
+    "endDate": "2016-09-04T00:00:00.000Z",
+    "content": "\r\n## What it does\r\nMedCheck Is a medication adherence utility that runs primarily through the Amazon Echo, Echo Dot, and other Alexa enabled IOT Devices. The app uses scheduled events and persistent updates through firebase to remind the user to take any daily medications as well as keep track of whether or not certain medications have been taken for the day/on schedule. Additionally, the app is linked to a daily hardware pill planner with LED indicators to designate whether or not medications for a particular day need to be taken (the current day will be highlighted blue if medication for the day has been taken). The pill planner was made using a raspberry pi, LEDs, and a store-bought pill container. Additionally, using the Telegram API, Medcheck will send a reminder to the user's web-enabled device to take medication, presenting a use case for personal reminders as well as care takers who need to keep track of what meds they are administering. The user or caretaker can ask the Echo at any time how many of a certain medicine is remaining, how many days until the next available refill, and whether or not there are any refills remaining, and whether or not you've taken a certain dosage for the day. Their is also a web component that allows the user to get, at a glance, a view of any and all medications, the ability to refill them through their preferred pharmacy, as well as a countdown-timer for the next dosage of any medications.\r\n\r\n## Inspiration for this project\r\nCJ had come up with the idea for a medication adherence app from having several daily medications that were at times hard to keep track of. As he put it, the only thing worse than forgetting to take your meds is forgetting whether or not you took your meds. MedCheck presents itself as having the potential not only for individual uses to better manage their medication routine, but also for caretakers needing to keep up with their dependents' medical needs effectively.\r\n\r\n## Problems we ran into\r\nAmazon Web Services had a big learning curve for us. None of us had ever used any of the services and didn't have tons of experience with nodejs. There was a lot of documentation to wade through to get exactly what we wanted.  The Alexa voice API in particular was lacking key built-in features that we had to come up with creative solutions to get past. \r\n\r\n\r\n\r\n\r\n",
+    "company": ""
+  },
+  "Distilled": {
+    "subtitle": "An Enterprise Resource Planner",
+    "position": "",
+    "hours": null,
+    "date": "2019-01-02T00:00:00.000Z",
+    "endDate": "2019-05-02T00:00:00.000Z",
+    "content": "For my senior project, my team created a way to track resources used in a distillery. Providing estimates of future resource use, barrel location. Manages resource tracking, planning, and prediction for barrels, grains, and products. Backend provides APIs for extensibility.",
+    "company": ""
+  },
+  "Get High Don't Die": {
+    "subtitle": "Get useful safety information about drugs you're taking or might be taking. Stay safe!",
+    "position": "",
+    "hours": null,
+    "date": "2020-02-22T00:00:00.000Z",
+    "endDate": "2020-02-23T00:00:00.000Z",
+    "content": "\r\n\r\n## Inspiration \r\nMedication is tricky. Sometimes it can cure your illnesses and lift your spirits, other times it can cause more problems than it fixes. \r\n\r\n...But why is that? \r\nWhy didn't your doctor tell you about the negative side effects of the pills given to you? How are you supposed to properly weigh your risks? What about medicines your doctor would never mention? Alternate medicines? Illegal drugs? Can you discuss those with your doctor?\r\n\r\nCan you even afford a doctor? This is America, after all. \r\n\r\n## What it does\r\nIn the Information Age, wouldn't it be nice if you could use your own data for more than just Netflix movie recommendations?\r\n\r\nGet High Don't Die is a service that allows users to track their adherence and frequency of drug usage, as well as keep track of any negative side effects they've experienced. By cross referencing the data from the other users and your own records, we can discover new drug interactions and provide increasingly personalized drug recommendations. In addition, our integration with the FDA's adverse drug event reporting system allows us a source of original truth when making recommendations to users.\r\n\r\n## How I built it\r\nLots of work in Jupyter notebook scraping, cleaning, scraping, cleaning, scraping, cleaning \r\n\r\nNeo4j for modeling drug interactions in a dynamic and ever-expanding graph!\r\n\r\nVue for the front end. Python Flask for the backend.\r\n\r\n## Challenges I ran into\r\nRate limits are hell. APIs that you're consuming rarely hold to the promises they make in their documentation \r\n\r\n## Accomplishments that I'm proud of\r\nPagination! I made a wrapper that circumvents illogical restrictions on api access. Turns out the FDA doesn't want you to use more than 25k of their Adverse Drug Events to analyze, despite having ~11 million of them...\r\n\r\n## What I learned\r\nI learned how to navigate the FDA's open drug data and a great way to represent drug interactions in a graph database.\r\n\r\n## What's next for Get High Don't Die\r\nSmoothing up the frontend, making a mobile app, pushing it all to the cloud!",
+    "company": ""
+  },
+  "FRET Visualizer": {
+    "subtitle": "An interactive tool for visualizing the physics of Förster Resonance Energy Transfer (FRET).",
+    "position": "",
+    "hours": null,
+    "date": "2014-05-01T00:00:00.000Z",
+    "endDate": "2014-08-01T00:00:00.000Z",
+    "content": "\r\n\r\n## Inspiration\r\nWhen dealing with [Förster Resonance Energy Transfer](https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer), often the physics around the orientation factor, κ<sup>2</sup>, is misunderstood. This leads to most people following the advice of [Yang (2010)](https://onlinelibrary.wiley.com/doi/abs/10.1560/IJC.49.3-4.313) and estimating it as 2/3, accepting a relative error of up to 10%. This can lead to larger errors if these calculations are used in later copmutations. For example, a research group out of Duke University explored the idea of using FRET calculations to create logic gates for a light-based computer. Only by understanding the orientation factor correctly would they be able make computations accurately.\r\n\r\nTo help alleviate this issue, I built a tool that allows the user to visualize how the orientation factor affects the efficiency of energy transfer and the probability distribution relating to the orientation of chromophores involved.\r\n\r\n## What it does\r\nThis tool allows the user to change variables relating to the two chromophores involved in Förster Resonance Energy Transfer and see the resultant geometry / probability distributions as well as the efficiency of energy transfer.\r\n\r\n## How I built it\r\nMathematica has a range of tools that make it really easy to make and deploy interactive visualizations. At the time of making this, Mathematica was my primary programming language.\r\n\r\n## Challenges I ran into\r\nBeing in high school when I first made this, I didn't really know anything about the messy math or physics needed. I've since learned, but now I rarely need it. Weird how things work out.\r\n\r\n## Accomplishments that I'm proud of\r\nI actually came to understand the research during my time working on this project and it's stuck with me many years (5 years at the time of writing!) later.\r\n\r\n## What I learned\r\nA lot of physics that I knew nothing about before. And that Mathematica makes it extremely easy to make demos for just about anything.\r\n\r\n## What's next for FRET\r\nNothing! This project was a long time ago. If anyone wants me to get the tools back up and running again, email me at [briancarlson6174@gmail.com](mailto:briancarlson6174@gmail.com). \r\n",
+    "company": ""
+  },
+  "President & Lead Architect at TacoAI": {
+    "subtitle": "",
+    "position": "President & Lead Architect",
+    "hours": 25,
+    "date": "2019-06-01T00:00:00.000Z",
+    "endDate": null,
+    "content": "- Architected and developed text and voice based NLU chatbot systems for customer service operations. Built systems for onboarding new users on Avant Garde Trading’s brokerage platform.\r\n- Architected and developed AI/ML systems for various back-office automation tasks for the Prosperum Financial Holdings ecosystem of products and subsidiaries.\r\n- Architected and developed Avant Garde Trading’s new stock and options trading platform including integrations for chatbot systems, automated trading, trade assisting tools, and trade analytics.\r\n- Interviewed, hired, and managed developers in building out systems with regular stand-ups and weekly demos to external stakeholders.\r\n- Architected and developed ETL pipelines for financial and account data for building AI-based trade recommendation systems.\r\n- Developed proprietary natural language chatbot systems with realistic voice synthesis for onboarding and customer service tasks.\r\n- Pentested brokerage systems previously developed by external team, finding serious security flaws. Took over development of these systems, removing these security flaws and secured the system against similar attacks.\r\n",
+    "company": "TacoAI"
+  },
+  "RESearch": {
+    "subtitle": "RESearch is a computational tool for determining the best way to perform multiple DNA transformations.",
+    "position": "",
+    "hours": null,
+    "date": "2018-02-18T00:00:00.000Z",
+    "endDate": "2018-02-19T00:00:00.000Z",
+    "content": "## Inspiration\r\n\r\nWe were inspired by recent research done by Harvard University. The researchers were able to encode a small gif in DNA, frame by frame. We thought about how we could improve this process, and make it more accessible.\r\n\r\n## What it does\r\n\r\nRESearch uses existing databases of genes and restriction enzymes to find the optimal way to encode arbitrary information into DNA. (Restriction enzymes are used to bread apart DNA at certain base-pair patterns.) Research essentially outputs a step by step guide for a lab scientist trying to create a specific sequence in DNA. This can be used to either store arbitrary data in DNA, or (more importantly) to easily edit existing DNA to eliminate dangerous or unwanted mutations. For example, we could edit the DNA of bacteria to eliminate their resistance to antibiotics.\r\n\r\n## How I built it\r\n\r\nRESearch is built mostly in python, but utilizes neo4j for the database of enzymes, and a freely available tool called Blast to easily search for patterns in genes.\r\n\r\n## Challenges I ran into\r\n\r\nIt was very hard for us to optimize the neo4j database. There were over a million enzymes that we had to search through, so we had to modify our algorithm to allow it to run in a reasonable amount of time.\r\n\r\n## Accomplishments that I'm proud of\r\n\r\n- Learning new technologies, and using them to create a relatively finished project.\r\n- Working efficiently as a team to finish the project in time.\r\n\r\n## What I learned\r\n\r\nWe learned neo4j without any prior experience. We also learned a lot about biology and specifically bioinformatics.\r\n\r\n## What's next for RESearch\r\nHopefully, we can use RESearch for some future research projects, to develop it more.",
+    "company": ""
+  },
+  "Student Programmer at Western Kentucky University Physics Department": {
+    "subtitle": "",
+    "position": "Student Programmer",
+    "hours": 20,
+    "date": "2013-11-02T00:00:00.000Z",
+    "endDate": "2015-09-02T00:00:00.000Z",
+    "content": "Created Monte Carlo simulations for research on [Förster Resonance Energy Transfer](https://en.wikipedia.org/wiki/F%C3%B6rster_resonance_energy_transfer) (FRET) for Dr. Wieb van der Meer at Western Kentucky University. After running the simulation over a range of input angles, chromophore distance, and emission spectrum values and getting the quantum yield efficiency, I modeled the data to a series of equations that simplified existing models and provided more useful data. I also build a [visualization tool](/projects/fret/) for better visualizing the equations around FRET.",
+    "company": "Western Kentucky University Physics Department"
+  },
+  "Software Engineering Intern at Carlson Software": {
+    "subtitle": "",
+    "position": "Software Engineering Intern",
+    "hours": 40,
+    "date": "2015-05-10T00:00:00.000Z",
+    "endDate": "2015-08-20T00:00:00.000Z",
+    "content": "- Developed the full stack platform for displaying vendor product models that could be imported into modeling software product.\r\n- Responsible for the MySQL setup, .NET development, and scripts to search, filter, import, and serve the product models.\r\n- Developed faster algorithms for 3D point clouds using a custom KD-tree used in mining software.\r\n",
+    "company": "Carlson Software"
+  },
+  "GlobeTalk": {
+    "subtitle": "Helping immigrants and refugees learn languages one chat at a time.",
+    "position": "",
+    "hours": null,
+    "date": "2018-03-25T00:00:00.000Z",
+    "endDate": "2018-03-26T00:00:00.000Z",
+    "content": "\r\n## Inspiration\r\nA big problem for refugees and immigrants is learning the language and culture of the places they escape to. Many language apps work solely on text or audio playbacks without a real person on the other side assisting the journey of learning a new language. There are services for video calls with tutors and teachers, but they're all paid services, very impersonal, and largely inefficient. We want to empower refugees and immigrants to take their language education into their own hands and offer individuals an easy way to help empower others. This is an equalizing factor when it comes to starting a new life in another country. Building an emotional support group provides emotional security to better help stabilize individuals in their new lives.\r\n\r\n## What it does\r\nWe built a live video and audio chat system that matches language learners with language teachers in real time. Language learners can subscribe to streams to participate or listen to conversations in both their native tongue and the language they're trying to learn. Since not all refugees or immigrants will have access to a computer or a phone we made it our mission to support both devices with video and audio as well as audio-only streams for those without good internet and/or access to a webcam.\r\n\r\nOur system helps foster interpersonal relationships and networking by providing users the opportunity to favorite those with whom they'd like to have more conversations with later. This allows users to build lasting relationships through their educational journey and after.\r\n\r\nUsers can be enrolled as students and teachers, giving them the opportunity to give back to the community that helped them or giving students the opportunity to connect with other students to talk in their home language.\r\n\r\nIn addition, users have the option to save video or audio streams as they're happening to come back to later. This would be really helpful for older learners who need to go back over information a few more times to make it stick.\r\n\r\n## How we built it\r\nWe used OpenTok paired with a simple Node.JS Heroku application to create sessions ids and tokens for users joining peer to peer chat rooms through our Android app and website. We save user favorites, stream archive data, and language data on a Firebase database. We also use that same database to provide user authentication to protect the privacy of our users.\r\n\r\n## Challenges we ran into\r\nGenerating tokens for individual users.\r\n\r\nPrioritizing important functionality over non-important functionality.\r\n\r\nDebugging cross-platform problems.\r\n\r\nTaking too many hours debugging to find out the Guest wifi blocked our video streams.\r\n\r\n\r\n## Accomplishments that we're proud of\r\nWe had video streaming up pretty quickly. That actually gave us plenty of time to work towards our stretch goals. \r\n\r\n## What we learned\r\nOpenTok is surprisingly simple to use. Authentication is annoying. \r\n\r\n## What's next for GlobeTalk\r\nBetter localization settings. If you're trying to learn English, having our website in English isn't that helpful.\r\n\r\nScheduling times to video chat with teachers.\r\n",
+    "company": ""
+  },
+  "Laser Projector": {
+    "subtitle": "A laser projector built from scratch using the Tiva C LaunchPad and ARM processor",
+    "position": "",
+    "hours": null,
+    "date": "2018-07-02T00:00:00.000Z",
+    "endDate": "2018-07-30T00:00:00.000Z",
+    "content": "\r\n",
+    "company": ""
+  },
+  "Student at University of Kentucky": {
+    "subtitle": "",
+    "position": "Student",
+    "hours": null,
+    "date": "2015-08-20T00:00:00.000Z",
+    "endDate": "2019-05-08T00:00:00.000Z",
+    "content": "\r\nI graduated in May 2019 from University of Kentucky with dual degrees in Computer Science and Computer Engineering and a minor in Math. This made me the first generation in my family to graduate from college. During my time at UK, I started <a href=\"http://acm.cs.uky.edu/hackmadness/\">UK HackMadness</a>, a series of workshops teaching skills students don't learn in school including using Github, developing apps, and deploying machine learning models. I was also the lead organizer of <a href=\"cathacks.com\">CatHacks V</a>, Kentucky's largest <a href=\"https://mlh.io/\">MLH sponsored</a> hackathon. I participated in UK's programming team, built learning tools for professors, competed in <a href=\"https://devpost.com/TheRobotCarlson\">many hackathons</a>, and made various side projects.",
+    "company": "University of Kentucky"
+  },
+  "Brewio": {
+    "subtitle": "Analytics and customer loyalty programs for the bourbon and beer industry",
+    "position": "",
+    "hours": null,
+    "date": "2018-11-18T00:00:00.000Z",
+    "endDate": "2018-11-20T00:00:00.000Z",
+    "content": "\r\nWith the increasing demand for small-batch, artisan bourbon and beer, distilleries and breweries often look for new ways to connect with their customers.",
+    "company": ""
+  },
+  "Hypervise": {
+    "subtitle": "An parallel, distributed, online hyperparameter search",
+    "position": "",
+    "hours": null,
+    "date": "2018-07-30T00:00:00.000Z",
+    "endDate": "2018-08-30T00:00:00.000Z",
+    "content": "Using Hyperopt and Bayesian search methods, I began work on expanding the Hyperopt library to use more up-to-date search methods",
+    "company": ""
+  },
+  "Senior Software Engineer at Primer.ai": {
+    "subtitle": "",
+    "position": "Senior Software Engineer",
+    "hours": 40,
+    "date": "2021-10-05T00:00:00.000Z",
+    "endDate": null,
+    "content": "\r\n- Designed and led initiative for reusable tools for CI/CD pipelines\r\n- Designed and built FaaS-like compute bricks for separating dependency-laden extraction / conversion code\r\n- Implemented secure document caching capabilities\r\n- Iterated on NLP tool for extracting insights from large volumes of text\r\n",
+    "company": "Primer.AI"
+  },
+  "Morning Maker": {
+    "subtitle": "A schedulable toaster oven and coffee maker",
+    "position": "",
+    "hours": null,
+    "date": "2018-09-15T00:00:00.000Z",
+    "endDate": "2018-09-16T00:00:00.000Z",
+    "content": "Coffee isn't breakfast, but what happens when you're trying to squeeze every last second of sleep out of your morning routine? Usually you skip breakfast lieu of coffee. During HackTheHome 2018, my team thought we'd make a product to make this process easier. You can schedule your coffee to be ready in the morning, why not have your breakfast ready itself as well? After taking apart an old toaster oven and coffee maker, we created a new metal casing, adding a touch screen for scheduling, a thermocouple for measuring temperature precisely, and some relay switches for controlling the AC heating units using the raspberry pi.",
+    "company": ""
+  },
+  "Programming Paraprofessional at UKY Center for Drug and Alcohol Research": {
+    "subtitle": "",
+    "position": "Programming Paraprofessional",
+    "hours": 20,
+    "date": "2016-02-10T00:00:00.000Z",
+    "endDate": "2016-05-02T00:00:00.000Z",
+    "content": "\r\nWorked with PHP/MySQL for several large studies on the effectiveness of substance abuse treatment programs. Worked with the Yii and LimeSurvey frameworks alongside SourceTree for version control.",
+    "company": "UKY Center for Drug and Alcohol Research"
+  },
+  "Confluency": {
+    "subtitle": "A simple api for accessing the Confluence REST API",
+    "position": "",
+    "hours": null,
+    "date": "2017-08-18T00:00:00.000Z",
+    "endDate": "2017-08-20T00:00:00.000Z",
+    "content": "No need to keep track of IDs or worry about anything going on behind the scenes. Confluency provides a simple interface to the Confluence REST api with simple caching to accelerate repeated requests.",
+    "company": ""
+  },
+  "Software Engineer at Belcan Engineering": {
+    "subtitle": "",
+    "position": "Software Engineer",
+    "hours": 40,
+    "date": "2017-01-10T00:00:00.000Z",
+    "endDate": "2017-05-05T00:00:00.000Z",
+    "content": "- Worked on quality assessment of airplane control systems.\r\n- Designed automation software for error reporting of live commercial airplanes.\r\n- Built software to detect anomalous implementation and design requirements to ensure designs met government and industry standards.\r\n",
+    "company": "Belcan Engineering"
+  },
+  "Lightswitchd": {
+    "subtitle": "Smart Switch for Anything",
+    "position": "",
+    "hours": null,
+    "date": "2017-08-02T00:00:00.000Z",
+    "endDate": "2017-08-03T00:00:00.000Z",
+    "content": "Items like Amazon’s Echo and Phillips Hue lights are limited by the fact that they are at the mercy of the physical light switch.  If you switch off the light using the switch, then you cannot turn the light back on with the Echo or any other smart device on the market.  In our solution, the switch is smart rather than the light.  The physical switch box is replaced with a power supply and voltage regulator, which is then connected to a Raspberry Pi.  The Pi runs a http server that keeps track of the states of the devices.  Clients can query the server to obtain and modify the state.  A listener also reads the states and drives the correct GPIO output to the voltage regulator, which then switches the light, fan, or whatever device you want to have connected.  This method allows Lightswitchd to stand alone, and it allows for a large number of devices to interface with the switch.  Lightswitchd can be currently controlled via a web browser connected to the Pi, a touch screen on the switch, a gesture detecting device on the switch, and by POSTing via curl.  The server can also support Amazon Echo, Homekit, and any other device that can do REST API calls.",
+    "company": ""
+  },
+  "Factorem": {
+    "subtitle": "A google cloud based cryptocurrency trading framework",
+    "position": "",
+    "hours": null,
+    "date": "2018-07-02T00:00:00.000Z",
+    "endDate": "2018-07-03T00:00:00.000Z",
+    "content": "## Inspiration\r\nI gave a talk in spring 2018 to a group of business majors about how technology could be used in the financial industry. For that talk, I put together a small demo of automated trading. Much to my surprise, the bot worked well, _really_ well.\r\nAt the time I was just using simulated money, but it was still remarkable that it had the potential to make that much money that quickly. Fast forward past a busy semester and an action and internship packed summer and we get to my first open weekend to finally build a full platform from scratch.\r\n\r\n## What it does\r\nPrimarily, this is a trading bot platform. The focus is on cryptocurrency, but it's been setup to be usable with any kind of API with buy/sell and price queries. The platform has a simulation mode for evaluating the performance of bots using simulated funds, but with mirror market buy/sell rates. \r\n\r\n\r\n## How we built it\r\nThis was built in Google Cloud using Firestore, PubSub, Compute Engine, and Python 3.7. \r\n\r\nOur code running in vms in Google Compute Engine poll exchanges to retrieve pricing and order data. Orders are published into PubSub streams by bots running on the framework and recorded in the Firestore database, other code running on a VM in Google Compute Engine subscribes to the order topics, checking account balances and permissions before placing the order. This allows the bot to only need read access to price data and publish access to the order topics per exchange. This allows for a more fine-grained permissions control should other people run bots on the framework. Another Google Compute engine VM polls exchanges to check when orders are completed so money can be reallocated to each bot running on the framework based on the orders placed.\r\n\r\n## Challenges we ran into\r\nGoogle Cloud can be really fickle when you're playing around with beta features. Firestore documentation is bad. Those things together often made it hard to figure out if I was the problem or it was. \r\n\r\nI have a nasty habit of prematurely optimizing and I was constantly having to stop myself from doing things the \"best way\" in favor of the \"quick and dirty way\" in the traditional style of a hackathon due to time constraints.\r\n\r\n## Accomplishments that we're proud of\r\nWe got it all working! So many complex parts all working together. It's amazing that we were able to make them all work so flawlessly.\r\n\r\n## What's next for Pecunia Factorem\r\n- Better error reporting and handling\r\n- Chat interface for feedback\r\n",
+    "company": ""
+  },
+  "AlgoCraft": {
+    "subtitle": "Teaching Algorithms with Minecraft",
+    "position": "",
+    "hours": null,
+    "date": "2018-12-02T00:00:00.000Z",
+    "endDate": "2019-05-03T00:00:00.000Z",
+    "content": "\r\nProject Malmo and Minecraft provide a platform for teaching basic programming, algorithms, and reinforcement learning. AlgoCraft is a wrapper around those projects designed to provide a learning platform for students learning programming all the way to learning advanced algorithms. Packaged into Docker container, deployed to Google Cloud, spawns a new container instance for each user.",
+    "company": ""
+  },
+  "Security Engineer II at United States Court of Appeals for the Sixth Circuit IT": {
+    "subtitle": "",
+    "position": "Security Engineer II",
+    "hours": 40,
+    "date": "2017-06-02T00:00:00.000Z",
+    "endDate": "2017-08-21T00:00:00.000Z",
+    "content": "\r\n- Developed security policies and SSP for the IT Security Scorecard of the Sixth Circuit\r\n- Wrote document generation software for acceleration of document completion\r\n- Released open source software for templated document generation\r\n",
+    "company": "United States Court of Appeals for the Sixth Circuit IT"
+  },
+  "Data Engineer at HealthVerity": {
+    "subtitle": "",
+    "position": "Data Engineer",
+    "hours": 40,
+    "date": "2020-08-04T00:00:00.000Z",
+    "endDate": "2021-10-01T00:00:00.000Z",
+    "content": "\r\n- Automated big data normalization pipelines processing 5-10 terabytes of healthcare data per day.\r\n- Built utility libraries and tooling around PySpark and AWS EMR to accelerate normalization debugging and development.\r\n- Improved internal data pipeline library built on top of Airflow to handle a wider range of data cases.\r\n- Improved data normalization testing through schema-based representative data generation.\r\n- Migrated legacy normalization jobs from Redshift. Optimized Spark configurations.\r\n- Led efforts to develop and launch internal wiki for knowledge sharing within the organization\r\n- Assisted security team in performing pentesting of systems. Assisted in various security efforts.\r\n",
+    "company": "HealthVerity"
+  },
+  "Lab Assistant at UKY Engineering Innovation Center": {
+    "subtitle": "",
+    "position": "Lab Assistant",
+    "hours": 20,
+    "date": "2017-09-02T00:00:00.000Z",
+    "endDate": "2017-12-02T00:00:00.000Z",
+    "content": "\r\nMaintained 3D printers, laser cutters, and other tools in the Makerspace. Assisted in the creation of student and professor projects, helping bring ideas from the drawing board into real life.\r\n",
+    "company": "UKY Engineering Innovation Center"
+  },
+  "Data Engineer at Fishback Management and Research": {
+    "subtitle": "",
+    "position": "Data Engineer",
+    "hours": 40,
+    "date": "2019-02-02T00:00:00.000Z",
+    "endDate": "2020-06-04T00:00:00.000Z",
+    "content": "- Developed AI system to improve stock option trading strategies.\r\n- Developed a returns prediction engine for evaluating the feasibility of options trading strategies.\r\n- Developed a backtesting framework for doing cross sectional analysis of market returns for different stock and option ranking metrics. This work led directly to the development of a high value product.\r\n- Developed data loading pipelines for pulling various data sources to be loaded alongside custom option valuation data.\r\n",
+    "company": "Fishback Management and Research"
+  },
+  "Student at Gatton Academy": {
+    "subtitle": "",
+    "position": "Student",
+    "hours": null,
+    "date": "2013-08-02T00:00:00.000Z",
+    "endDate": "2015-05-02T00:00:00.000Z",
+    "content": "\r\nAt 16 I left home to attend the <a href=\"https://www.wku.edu/academy/\">Gatton Academy</a>, a 2 year residential STEM high school with some of the best and brightest minds in Kentucky. While there I did <a href=\"/experiences/fret-visualizer/\">physics research</a>, competed in the <a href=\"https://science.osti.gov/wdts/nsb\">National Science Bowl</a>, participated in robotics competitions, cryptography club (of which I founded), and gained over 90 college credit hours. I met Bill Nye, Michio Kaku, the <a href=\"#TODO\">head of NASA</a>, and many other awesome people. I graduated in May 2015, but continue to keep in touch with the 60 members of my graduating class.\r\n",
+    "company": "Gatton Academy"
+  }
+}

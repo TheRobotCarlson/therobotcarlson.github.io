@@ -1,0 +1,32 @@
+{
+  "name": "brian-carlson-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "content": "bun run build-content.ts",
+    "dev": "bun run content && bun run images && vite --host",
+    "build": "bun run content && bun run images && vite build && bun run finish-build.ts",
+    "preview": "bun run serve-static.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "bun run build && bun test",
+    "images": "bun run build-images.ts"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.170.46",
+    "@tanstack/react-start": "^1.169.4",
+    "gray-matter": "^4.0.3",
+    "marked": "^18.0.0",
+    "marked-gfm-heading-id": "^4.1.4",
+    "moment": "^2.31.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "typescript": "^7.0.0",
+    "vite": "^8.0.0"
+  }
+}

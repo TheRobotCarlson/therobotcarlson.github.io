@@ -1,0 +1,1168 @@
+{
+  "google-cloud": {
+    "slug": "google-cloud",
+    "entries": [
+      "factorem",
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p"
+    ],
+    "count": 2
+  },
+  "docker-compose": {
+    "slug": "docker-compose",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity"
+    ],
+    "count": 2
+  },
+  "healthcare": {
+    "slug": "healthcare",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "yii": {
+    "slug": "yii",
+    "entries": [
+      "programming-paraprofessional-at-uky-center-for-drug-and-alcohol-research"
+    ],
+    "count": 1
+  },
+  "bayesian": {
+    "slug": "bayesian",
+    "entries": [
+      "hypervise"
+    ],
+    "count": 1
+  },
+  "neural-style-transfer": {
+    "slug": "neural-style-transfer",
+    "entries": [
+      "auto-art"
+    ],
+    "count": 1
+  },
+  "reinforcement-learning": {
+    "slug": "reinforcement-learning",
+    "entries": [
+      "algo-craft",
+      "pokebot"
+    ],
+    "count": 2
+  },
+  "k8s": {
+    "slug": "k8s",
+    "entries": [
+      "senior-software-engineer-at-primer-ai"
+    ],
+    "count": 1
+  },
+  "aws-elasticache": {
+    "slug": "aws-elasticache",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "neo4j": {
+    "slug": "neo4j",
+    "entries": [
+      "get-high-don-t-die",
+      "re-search"
+    ],
+    "count": 2
+  },
+  "hackthehome": {
+    "slug": "hackthehome",
+    "entries": [
+      "morning-maker",
+      "lightswitchd"
+    ],
+    "count": 2
+  },
+  "postgres": {
+    "slug": "postgres",
+    "entries": [
+      "data-engineer-at-fishback-management-and-research",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy"
+    ],
+    "count": 2
+  },
+  "scikit": {
+    "slug": "scikit",
+    "entries": [
+      "photoshoplifting"
+    ],
+    "count": 1
+  },
+  "research": {
+    "slug": "research",
+    "entries": [
+      "research-assistant-at-university-of-kentucky-psychology-department",
+      "student-programmer-at-western-kentucky-university-physics-department"
+    ],
+    "count": 2
+  },
+  "aiohttp": {
+    "slug": "aiohttp",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "flask": {
+    "slug": "flask",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "morning-maker",
+      "lightswitchd"
+    ],
+    "count": 3
+  },
+  "bioinformatics": {
+    "slug": "bioinformatics",
+    "entries": [
+      "re-search"
+    ],
+    "count": 1
+  },
+  "data-science": {
+    "slug": "data-science",
+    "entries": [
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy",
+      "software-engineer-at-84-51",
+      "research-assistant-at-university-of-kentucky-psychology-department",
+      "student-programmer-at-western-kentucky-university-psychology-department"
+    ],
+    "count": 4
+  },
+  "vr": {
+    "slug": "vr",
+    "entries": [
+      "hacker-typer-vr",
+      "reali-type"
+    ],
+    "count": 2
+  },
+  "firestore": {
+    "slug": "firestore",
+    "entries": [
+      "factorem"
+    ],
+    "count": 1
+  },
+  "r": {
+    "slug": "r",
+    "entries": [
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy"
+    ],
+    "count": 1
+  },
+  "nlp": {
+    "slug": "nlp",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 2
+  },
+  "jhipster": {
+    "slug": "jhipster",
+    "entries": [
+      "distilled"
+    ],
+    "count": 1
+  },
+  "oculus": {
+    "slug": "oculus",
+    "entries": [
+      "reali-type"
+    ],
+    "count": 1
+  },
+  "c++": {
+    "slug": "c++",
+    "entries": [
+      "lucra-machina",
+      "med-check",
+      "software-engineering-intern-at-carlson-software-again",
+      "student-at-university-of-kentucky"
+    ],
+    "count": 4
+  },
+  "telegram-api": {
+    "slug": "telegram-api",
+    "entries": [
+      "eye-room",
+      "med-check"
+    ],
+    "count": 2
+  },
+  "tensorflow": {
+    "slug": "tensorflow",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "data-engineer-at-fishback-management-and-research",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy",
+      "lucra-machina"
+    ],
+    "count": 4
+  },
+  "algorithms": {
+    "slug": "algorithms",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "student-at-university-of-kentucky"
+    ],
+    "count": 2
+  },
+  "aws-ecs": {
+    "slug": "aws-ecs",
+    "entries": [
+      "co-founder-at-lucra-trading"
+    ],
+    "count": 1
+  },
+  "bootstrap": {
+    "slug": "bootstrap",
+    "entries": [
+      "globe-talk"
+    ],
+    "count": 1
+  },
+  "parallel-programming": {
+    "slug": "parallel-programming",
+    "entries": [
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p"
+    ],
+    "count": 1
+  },
+  "opencv": {
+    "slug": "opencv",
+    "entries": [
+      "eye-room"
+    ],
+    "count": 1
+  },
+  "mysql": {
+    "slug": "mysql",
+    "entries": [
+      "data-engineer-at-fishback-management-and-research",
+      "software-engineer-at-84-51",
+      "programming-paraprofessional-at-uky-center-for-drug-and-alcohol-research",
+      "software-engineering-intern-at-carlson-software"
+    ],
+    "count": 4
+  },
+  "hive": {
+    "slug": "hive",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "3d-graphics": {
+    "slug": "3d-graphics",
+    "entries": [
+      "software-engineering-intern-at-carlson-software-again",
+      "software-engineering-intern-at-carlson-software"
+    ],
+    "count": 2
+  },
+  "assembly": {
+    "slug": "assembly",
+    "entries": [
+      "student-at-university-of-kentucky"
+    ],
+    "count": 1
+  },
+  "make": {
+    "slug": "make",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity"
+    ],
+    "count": 2
+  },
+  "embedded": {
+    "slug": "embedded",
+    "entries": [
+      "morning-maker",
+      "laser-projector",
+      "lightswitchd",
+      "med-check"
+    ],
+    "count": 4
+  },
+  "vbscript": {
+    "slug": "vbscript",
+    "entries": [
+      "software-engineer-at-belcan-engineering"
+    ],
+    "count": 1
+  },
+  "hardware": {
+    "slug": "hardware",
+    "entries": [
+      "morning-maker"
+    ],
+    "count": 1
+  },
+  "spark-sql": {
+    "slug": "spark-sql",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "homekit": {
+    "slug": "homekit",
+    "entries": [
+      "lightswitchd"
+    ],
+    "count": 1
+  },
+  "software-engineering": {
+    "slug": "software-engineering",
+    "entries": [
+      "student-at-university-of-kentucky"
+    ],
+    "count": 1
+  },
+  "c": {
+    "slug": "c",
+    "entries": [
+      "laser-projector",
+      "software-engineering-intern-at-carlson-software-again",
+      "student-at-university-of-kentucky"
+    ],
+    "count": 3
+  },
+  "verilog": {
+    "slug": "verilog",
+    "entries": [
+      "student-at-university-of-kentucky"
+    ],
+    "count": 1
+  },
+  "alexa-app": {
+    "slug": "alexa-app",
+    "entries": [
+      "med-check"
+    ],
+    "count": 1
+  },
+  "data-visualization": {
+    "slug": "data-visualization",
+    "entries": [
+      "get-high-don-t-die",
+      "fret-visualizer",
+      "verbum-usus",
+      "student-programmer-at-western-kentucky-university-psychology-department",
+      "student-programmer-at-western-kentucky-university-physics-department"
+    ],
+    "count": 5
+  },
+  "appliance": {
+    "slug": "appliance",
+    "entries": [
+      "morning-maker"
+    ],
+    "count": 1
+  },
+  "sql": {
+    "slug": "sql",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy"
+    ],
+    "count": 3
+  },
+  "firebase": {
+    "slug": "firebase",
+    "entries": [
+      "globe-talk",
+      "eye-room",
+      "bars",
+      "intra-feed"
+    ],
+    "count": 4
+  },
+  "hanweck-data": {
+    "slug": "hanweck-data",
+    "entries": [
+      "data-engineer-at-fishback-management-and-research"
+    ],
+    "count": 1
+  },
+  "computational-problem-solving": {
+    "slug": "computational-problem-solving",
+    "entries": [
+      "student-at-gatton-academy"
+    ],
+    "count": 1
+  },
+  "electronics": {
+    "slug": "electronics",
+    "entries": [
+      "morning-maker",
+      "lightswitchd"
+    ],
+    "count": 2
+  },
+  "hackathon": {
+    "slug": "hackathon",
+    "entries": [
+      "get-high-don-t-die",
+      "brewio",
+      "morning-maker",
+      "factorem",
+      "globe-talk",
+      "eye-room",
+      "re-search",
+      "bars",
+      "lightswitchd",
+      "photoshoplifting",
+      "med-check",
+      "hacker-typer-vr",
+      "intra-feed"
+    ],
+    "count": 13
+  },
+  "jenkins": {
+    "slug": "jenkins",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "python": {
+    "slug": "python",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity",
+      "get-high-don-t-die",
+      "co-founder-at-lucra-trading",
+      "auto-art",
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy",
+      "algo-craft",
+      "morning-maker",
+      "hypervise",
+      "pokebot",
+      "factorem",
+      "eye-room",
+      "re-search",
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p",
+      "bars",
+      "docx-merge",
+      "confluency",
+      "docx-template",
+      "lightswitchd",
+      "lucra-machina",
+      "security-engineer-ii-at-united-states-court-of-appeals-for-the-sixth-circuit-it",
+      "photoshoplifting",
+      "software-engineer-at-belcan-engineering",
+      "kramer-bot",
+      "research-assistant-at-university-of-kentucky-psychology-department"
+    ],
+    "count": 27
+  },
+  "rivescript": {
+    "slug": "rivescript",
+    "entries": [
+      "kramer-bot"
+    ],
+    "count": 1
+  },
+  "artificial-intelligence": {
+    "slug": "artificial-intelligence",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research",
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p",
+      "student-at-university-of-kentucky"
+    ],
+    "count": 5
+  },
+  "serverless": {
+    "slug": "serverless",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "aws": {
+    "slug": "aws",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity",
+      "co-founder-at-lucra-trading",
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 4
+  },
+  "etl": {
+    "slug": "etl",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity"
+    ],
+    "count": 2
+  },
+  "keras": {
+    "slug": "keras",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "auto-art",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy",
+      "lucra-machina"
+    ],
+    "count": 4
+  },
+  "spring-boot": {
+    "slug": "spring-boot",
+    "entries": [
+      "distilled"
+    ],
+    "count": 1
+  },
+  "django": {
+    "slug": "django",
+    "entries": [
+      "photoshoplifting"
+    ],
+    "count": 1
+  },
+  "pyspark": {
+    "slug": "pyspark",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "javascript": {
+    "slug": "javascript",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research",
+      "distilled",
+      "software-engineer-at-84-51",
+      "eye-room",
+      "med-check",
+      "programming-paraprofessional-at-uky-center-for-drug-and-alcohol-research",
+      "intra-feed",
+      "software-engineering-intern-at-carlson-software"
+    ],
+    "count": 9
+  },
+  "zeppelin": {
+    "slug": "zeppelin",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "matlab": {
+    "slug": "matlab",
+    "entries": [
+      "student-at-university-of-kentucky"
+    ],
+    "count": 1
+  },
+  "amazon-echo": {
+    "slug": "amazon-echo",
+    "entries": [
+      "med-check"
+    ],
+    "count": 1
+  },
+  "big-data": {
+    "slug": "big-data",
+    "entries": [
+      "data-engineer-at-health-verity",
+      "research-assistant-at-university-of-kentucky-psychology-department"
+    ],
+    "count": 2
+  },
+  "amazon-web-services": {
+    "slug": "amazon-web-services",
+    "entries": [
+      "distilled",
+      "eye-room",
+      "lucra-machina"
+    ],
+    "count": 3
+  },
+  "automation": {
+    "slug": "automation",
+    "entries": [
+      "security-engineer-ii-at-united-states-court-of-appeals-for-the-sixth-circuit-it",
+      "software-engineer-at-belcan-engineering"
+    ],
+    "count": 2
+  },
+  "fastapi": {
+    "slug": "fastapi",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "machine-learning": {
+    "slug": "machine-learning",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "auto-art",
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy",
+      "hypervise",
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p",
+      "student-at-university-of-kentucky"
+    ],
+    "count": 8
+  },
+  "entrepreneurship": {
+    "slug": "entrepreneurship",
+    "entries": [
+      "brewio",
+      "bars"
+    ],
+    "count": 2
+  },
+  "nosql": {
+    "slug": "nosql",
+    "entries": [
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p"
+    ],
+    "count": 1
+  },
+  "full-stack": {
+    "slug": "full-stack",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research",
+      "software-engineer-at-84-51",
+      "programming-paraprofessional-at-uky-center-for-drug-and-alcohol-research",
+      "software-engineering-intern-at-carlson-software"
+    ],
+    "count": 5
+  },
+  "spring": {
+    "slug": "spring",
+    "entries": [
+      "distilled"
+    ],
+    "count": 1
+  },
+  "perl": {
+    "slug": "perl",
+    "entries": [
+      "software-engineer-at-belcan-engineering"
+    ],
+    "count": 1
+  },
+  "google-pubsub": {
+    "slug": "google-pubsub",
+    "entries": [
+      "factorem"
+    ],
+    "count": 1
+  },
+  "java-spring": {
+    "slug": "java-spring",
+    "entries": [
+      "distilled",
+      "software-engineer-at-84-51"
+    ],
+    "count": 2
+  },
+  "jupyter": {
+    "slug": "jupyter",
+    "entries": [
+      "algo-craft"
+    ],
+    "count": 1
+  },
+  "limesurvey": {
+    "slug": "limesurvey",
+    "entries": [
+      "programming-paraprofessional-at-uky-center-for-drug-and-alcohol-research"
+    ],
+    "count": 1
+  },
+  "nodejs": {
+    "slug": "nodejs",
+    "entries": [
+      "intra-feed"
+    ],
+    "count": 1
+  },
+  "cathacks": {
+    "slug": "cathacks",
+    "entries": [
+      "photoshoplifting"
+    ],
+    "count": 1
+  },
+  "iot": {
+    "slug": "iot",
+    "entries": [
+      "lightswitchd",
+      "med-check"
+    ],
+    "count": 2
+  },
+  "telegram": {
+    "slug": "telegram",
+    "entries": [
+      "bars"
+    ],
+    "count": 1
+  },
+  "laser-cutting": {
+    "slug": "laser-cutting",
+    "entries": [
+      "lab-assistant-at-uky-engineering-innovation-center"
+    ],
+    "count": 1
+  },
+  "vuejs": {
+    "slug": "vuejs",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research"
+    ],
+    "count": 2
+  },
+  "it": {
+    "slug": "it",
+    "entries": [
+      "security-engineer-ii-at-united-states-court-of-appeals-for-the-sixth-circuit-it"
+    ],
+    "count": 1
+  },
+  "3d-modeling": {
+    "slug": "3d-modeling",
+    "entries": [
+      "lab-assistant-at-uky-engineering-innovation-center"
+    ],
+    "count": 1
+  },
+  "autodesk-inventor": {
+    "slug": "autodesk-inventor",
+    "entries": [
+      "lab-assistant-at-uky-engineering-innovation-center"
+    ],
+    "count": 1
+  },
+  "pypi": {
+    "slug": "pypi",
+    "entries": [
+      "docx-merge",
+      "confluency",
+      "docx-template"
+    ],
+    "count": 3
+  },
+  "spark": {
+    "slug": "spark",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "interactive": {
+    "slug": "interactive",
+    "entries": [
+      "pokebot"
+    ],
+    "count": 1
+  },
+  "azure": {
+    "slug": "azure",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "web-scraping": {
+    "slug": "web-scraping",
+    "entries": [
+      "student-programmer-at-western-kentucky-university-psychology-department"
+    ],
+    "count": 1
+  },
+  "bash": {
+    "slug": "bash",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity",
+      "co-founder-at-lucra-trading",
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research",
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy",
+      "software-engineer-at-84-51"
+    ],
+    "count": 7
+  },
+  "cmake": {
+    "slug": "cmake",
+    "entries": [
+      "software-engineering-intern-at-carlson-software-again"
+    ],
+    "count": 1
+  },
+  "ms-bot-framework": {
+    "slug": "ms-bot-framework",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "chatbot": {
+    "slug": "chatbot",
+    "entries": [
+      "bars",
+      "kramer-bot"
+    ],
+    "count": 2
+  },
+  "mongodb": {
+    "slug": "mongodb",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "head-of-crypto-asset-management-at-tww-family-holdings-l-l-l-p",
+      "lucra-machina"
+    ],
+    "count": 3
+  },
+  "rest-api": {
+    "slug": "rest-api",
+    "entries": [
+      "confluency"
+    ],
+    "count": 1
+  },
+  "startup-weekend": {
+    "slug": "startup-weekend",
+    "entries": [
+      "brewio",
+      "bars",
+      "intra-feed"
+    ],
+    "count": 3
+  },
+  "neural-networks": {
+    "slug": "neural-networks",
+    "entries": [
+      "auto-art"
+    ],
+    "count": 1
+  },
+  "NLU": {
+    "slug": "NLU",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "airflow": {
+    "slug": "airflow",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "rshiny": {
+    "slug": "rshiny",
+    "entries": [
+      "data-scientist-at-institute-of-pharmaceutical-outcomes-and-policy"
+    ],
+    "count": 1
+  },
+  "igor": {
+    "slug": "igor",
+    "entries": [
+      "student-programmer-at-western-kentucky-university-physics-department",
+      "student-at-gatton-academy"
+    ],
+    "count": 2
+  },
+  "htc-vive": {
+    "slug": "htc-vive",
+    "entries": [
+      "hacker-typer-vr"
+    ],
+    "count": 1
+  },
+  "unity": {
+    "slug": "unity",
+    "entries": [
+      "hacker-typer-vr",
+      "reali-type"
+    ],
+    "count": 2
+  },
+  "wku-physics-research": {
+    "slug": "wku-physics-research",
+    "entries": [
+      "fret-visualizer"
+    ],
+    "count": 1
+  },
+  "aws-lambda": {
+    "slug": "aws-lambda",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "excel": {
+    "slug": "excel",
+    "entries": [
+      "docx-template"
+    ],
+    "count": 1
+  },
+  "fix-protocol": {
+    "slug": "fix-protocol",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "hadoop": {
+    "slug": "hadoop",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "visual-basic": {
+    "slug": "visual-basic",
+    "entries": [
+      "student-programmer-at-western-kentucky-university-physics-department",
+      "student-at-gatton-academy"
+    ],
+    "count": 2
+  },
+  "terraform": {
+    "slug": "terraform",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "3d-printing": {
+    "slug": "3d-printing",
+    "entries": [
+      "lab-assistant-at-uky-engineering-innovation-center"
+    ],
+    "count": 1
+  },
+  "percona-db": {
+    "slug": "percona-db",
+    "entries": [
+      "data-engineer-at-fishback-management-and-research"
+    ],
+    "count": 1
+  },
+  "vue": {
+    "slug": "vue",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai"
+    ],
+    "count": 1
+  },
+  "jquery": {
+    "slug": "jquery",
+    "entries": [
+      "globe-talk"
+    ],
+    "count": 1
+  },
+  "c#": {
+    "slug": "c#",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai",
+      "hacker-typer-vr",
+      "software-engineering-intern-at-carlson-software",
+      "student-at-gatton-academy"
+    ],
+    "count": 4
+  },
+  "reporting": {
+    "slug": "reporting",
+    "entries": [
+      "software-engineer-at-belcan-engineering"
+    ],
+    "count": 1
+  },
+  "embedded-programming": {
+    "slug": "embedded-programming",
+    "entries": [
+      "student-at-university-of-kentucky"
+    ],
+    "count": 1
+  },
+  "kinect": {
+    "slug": "kinect",
+    "entries": [
+      "reali-type"
+    ],
+    "count": 1
+  },
+  "confluence": {
+    "slug": "confluence",
+    "entries": [
+      "confluency"
+    ],
+    "count": 1
+  },
+  "arm": {
+    "slug": "arm",
+    "entries": [
+      "laser-projector"
+    ],
+    "count": 1
+  },
+  "java": {
+    "slug": "java",
+    "entries": [
+      "software-engineer-at-84-51",
+      "software-engineer-at-belcan-engineering",
+      "software-engineering-intern-at-carlson-software",
+      "student-at-gatton-academy"
+    ],
+    "count": 4
+  },
+  "laravel": {
+    "slug": "laravel",
+    "entries": [
+      "data-engineer-at-fishback-management-and-research"
+    ],
+    "count": 1
+  },
+  "data-scraping": {
+    "slug": "data-scraping",
+    "entries": [
+      "get-high-don-t-die"
+    ],
+    "count": 1
+  },
+  "raspberry-pi": {
+    "slug": "raspberry-pi",
+    "entries": [
+      "morning-maker",
+      "eye-room",
+      "lightswitchd",
+      "med-check"
+    ],
+    "count": 4
+  },
+  "react": {
+    "slug": "react",
+    "entries": [
+      "lightswitchd"
+    ],
+    "count": 1
+  },
+  "angular": {
+    "slug": "angular",
+    "entries": [
+      "distilled",
+      "software-engineer-at-84-51"
+    ],
+    "count": 2
+  },
+  "chatbots": {
+    "slug": "chatbots",
+    "entries": [
+      "president-and-lead-architect-at-taco-ai",
+      "research-assistant-at-university-of-kentucky-psychology-department"
+    ],
+    "count": 2
+  },
+  "fintech": {
+    "slug": "fintech",
+    "entries": [
+      "co-founder-at-lucra-trading",
+      "president-and-lead-architect-at-taco-ai",
+      "data-engineer-at-fishback-management-and-research"
+    ],
+    "count": 3
+  },
+  "aws-emr": {
+    "slug": "aws-emr",
+    "entries": [
+      "data-engineer-at-health-verity"
+    ],
+    "count": 1
+  },
+  "php": {
+    "slug": "php",
+    "entries": [
+      "data-engineer-at-fishback-management-and-research",
+      "programming-paraprofessional-at-uky-center-for-drug-and-alcohol-research"
+    ],
+    "count": 2
+  },
+  "opentok": {
+    "slug": "opentok",
+    "entries": [
+      "globe-talk"
+    ],
+    "count": 1
+  },
+  "monte-carlo": {
+    "slug": "monte-carlo",
+    "entries": [
+      "student-programmer-at-western-kentucky-university-physics-department"
+    ],
+    "count": 1
+  },
+  "node-js": {
+    "slug": "node-js",
+    "entries": [
+      "eye-room"
+    ],
+    "count": 1
+  },
+  "docker": {
+    "slug": "docker",
+    "entries": [
+      "senior-software-engineer-at-primer-ai",
+      "data-engineer-at-health-verity",
+      "co-founder-at-lucra-trading",
+      "president-and-lead-architect-at-taco-ai",
+      "software-engineer-at-84-51"
+    ],
+    "count": 5
+  },
+  "computer-vision": {
+    "slug": "computer-vision",
+    "entries": [
+      "eye-room"
+    ],
+    "count": 1
+  },
+  "mathematica": {
+    "slug": "mathematica",
+    "entries": [
+      "photoshoplifting",
+      "research-assistant-at-university-of-kentucky-psychology-department",
+      "fret-visualizer",
+      "verbum-usus",
+      "student-programmer-at-western-kentucky-university-psychology-department",
+      "student-programmer-at-western-kentucky-university-physics-department",
+      "student-at-gatton-academy"
+    ],
+    "count": 7
+  }
+}
